@@ -17,7 +17,7 @@
 <div class="bio-column">
 <h1 class="bio-title">Raphaël Isdant</h1>
 <p class="bio-subtitle">Designer d’expériences interactives, tech-artiste et enseignant</p>
-<p>Créateur, chercheur et pédagogue, j'explore les nouvelles narrations offertes par les environnements spatialisés et les interfaces sensibles.</p>
+<p>Créateur, chercheur et enseignant, j'explore les nouvelles narrations offertes par les environnements spatialisés et les interfaces sensibles.</p>
 <p>Diplômé en art contemporain et issu du programme de recherche de l'<strong>EnsadLab</strong>, j'ai notamment collaboré à la conception de dispositifs interactifs et scénographiques pour de grandes institutions telles que la Cité des Sciences ou le Musée de l'Homme.</p>
 <p>Dans ma pratique artistique, je puise dans les flux de données de notre monde ultra-connecté pour interroger nos fragilités écologiques, sociales et psychologiques. Parmi mes réalisations : un appareil photographiant le spectre d'animaux éteints, un cœur numérique battant au rythme des séismes, un métavers pour enfants hospitalisés ou encore un oracle généré par les réseaux sociaux.</p>
 </div>
