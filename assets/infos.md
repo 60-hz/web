@@ -29,7 +29,7 @@
 
 <!-- Colonne Droite -->
 <div class="bio-column">
-<p>Pour donner vie à ces expériences, je m'appuie sur une maîtrise technique pointue. Je revendique une forte affinité pour l'écosystème Open Source, en utilisant quotidiennement des logiciels comme <strong>Blender</strong>, <strong>Godot</strong> et <strong>PureData</strong>, que j'associe à de puissants environnements de programmation visuelle comme <strong>Cables.gl</strong> et <strong>TouchDesigner</strong>.</p>
+<p>Pour donner vie à ces expériences, je m'appuie sur une maîtrise technique pointue. Je revendique une forte affinité pour l'écosystème Open Source, en utilisant quotidiennement des outils comme <strong>Blender</strong>, <strong>Godot</strong> et <strong>PureData</strong>, que j'associe à de puissants environnements de programmation visuelle comme <strong>Cables.gl</strong> et <strong>TouchDesigner</strong>.</p>
 <p>La transmission est l'autre pilier de mon activité. Depuis 2009, j'enseigne la scénarisation interactive et la culture numérique (<strong>XR</strong>, <strong>IA</strong>) aux Beaux-Arts de Paris, ainsi que dans de nombreuses institutions en France et en Asie.</p>
 <p>Enfin, en tant que président de l'Association Sino-Française pour l'Éducation de l'Art et de la Culture Contemporaine, je m'engage activement pour favoriser les échanges académiques et créatifs à l'international.</p>
 </div>
