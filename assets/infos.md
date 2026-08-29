@@ -29,9 +29,36 @@
 
 <!-- Colonne Droite -->
 <div class="bio-column">
-<p>Pour donner vie à ces expériences, je m'appuie sur une maîtrise technique pointue. Je revendique une forte affinité pour l'écosystème Open Source, en utilisant quotidiennement des outils comme <strong>Blender</strong>, <strong>Godot</strong> et <strong>PureData</strong>, que j'associe à de puissants environnements de programmation visuelle comme <strong>Cables.gl</strong> et <strong>TouchDesigner</strong>.</p>
+<p>Pour donner vie à ces expériences, je m'appuie sur une maîtrise technique pointue. Je revendique une forte affinité pour l'écosystème Open Source, en utilisant quotidiennement des logiciels comme <strong>Blender</strong>, <strong>Godot</strong> et <strong>PureData</strong>, que j'associe à de puissants environnements de programmation visuelle comme <strong>Cables.gl</strong> et <strong>TouchDesigner</strong>.</p>
 <p>La transmission est l'autre pilier de mon activité. Depuis 2009, j'enseigne la scénarisation interactive et la culture numérique (<strong>XR</strong>, <strong>IA</strong>) aux Beaux-Arts de Paris, ainsi que dans de nombreuses institutions en France et en Asie.</p>
 <p>Enfin, en tant que président de l'Association Sino-Française pour l'Éducation de l'Art et de la Culture Contemporaine, je m'engage activement pour favoriser les échanges académiques et créatifs à l'international.</p>
+
+<!-- Liens CV et Contact -->
+<div class="links-container" style="display: flex; flex-direction: column; gap: 10px; margin-top: 15px;">
+
+<!-- Lien CV -->
+<a href="https://drive.google.com/file/d/1obIJ0WjkNT0CWTubykJJuCq3DYqHTNeO/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="cv-link" style="display: inline-flex; align-items: center; gap: 8px; color: #aaa; text-decoration: none; font-weight: bold;">
+<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+<polyline points="14 2 14 8 20 8"></polyline>
+<line x1="16" y1="13" x2="8" y2="13"></line>
+<line x1="16" y1="17" x2="8" y2="17"></line>
+<polyline points="10 9 9 9 8 9"></polyline>
+</svg>
+CV
+</a>
+
+<!-- Lien Contact -->
+<a href="mailto:raphael.isdant@gmail.com" class="contact-link" style="display: inline-flex; align-items: center; gap: 8px; color: #aaa; text-decoration: none; font-weight: bold;">
+<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+<polyline points="22,6 12,13 2,6"></polyline>
+</svg>
+Contact
+</a>
+
+</div>
+
 </div>
 
 </div>
