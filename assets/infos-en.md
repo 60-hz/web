@@ -29,8 +29,8 @@
 
 <!-- Colonne Droite -->
 <div class="bio-column">
-<p>To bring these experiences to life, I rely on cutting-edge technical expertise. I have a strong affinity for the Open Source ecosystem, daily using software such as <strong>Blender</strong>, <strong>Godot</strong>, and <strong>PureData</strong>, which I combine with powerful visual programming environments like <strong>Cables.gl</strong> and <strong>TouchDesigner</strong>.</p>
-<p>Knowledge transmission is the other pillar of my activity. Since 2009, I have been teaching interactive storytelling and digital culture (<strong>XR</strong>, <strong>AI</strong>) at the Beaux-Arts de Paris, as well as in numerous institutions in France and Asia.</p>
+<p>To bring these experiences to life, I rely on cutting-edge technical expertise. I have a strong affinity for the Open Source ecosystem, daily using tools such as <strong>Blender</strong>, <strong>Godot</strong>, and <strong>PureData</strong>, which I combine with powerful visual programming environments like <strong>Cables.gl</strong> and <strong>TouchDesigner</strong>.</p>
+<p>Knowledge transmission is the other pillar of my activity. Since 2009, I have been teaching interactive storytelling and digital culture (<strong>Physical Computing</strong>, <strong>XR</strong>, <strong>AI</strong>) at the Beaux-Arts de Paris, as well as in numerous institutions in France and Asia.</p>
 <p>Finally, as president of the Sino-French Association for Education in Contemporary Art and Culture, I am actively engaged in fostering academic and creative exchanges internationally.</p>
 
 <!-- Liens CV et Contact -->

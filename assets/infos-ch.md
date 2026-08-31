@@ -30,7 +30,7 @@
 <!-- Colonne Droite -->
 <div class="bio-column">
 <p>为了将这些体验化为现实，我仰赖顶尖的技术专业。我对开源（Open Source）生态系统有着强烈的热爱，日常使用<strong>Blender</strong>、<strong>Godot</strong>和<strong>PureData</strong>等软件，并将它们与<strong>Cables.gl</strong>和<strong>TouchDesigner</strong>等强大的可视化编程环境相结合。</p>
-<p>知识传承是我工作的另一大支柱。自2009年起，我便在巴黎美术学院（Beaux-Arts de Paris）以及法国和亚洲的多所机构教授互动叙事与数字文化（<strong>XR</strong>、<strong>AI</strong>）。</p>
+<p>知识传承是我工作的另一大支柱。自2009年起，我便在巴黎美术学院（Beaux-Arts de Paris）以及法国和亚洲的多所机构教授互动叙事与数字文化（<strong>Physical Computing</strong>, <strong>XR</strong>、<strong>AI</strong>）。</p>
 <p>最后，身为中法当代艺术与文化教育协会主席，我积极致力于促进国际学术与创意交流。</p>
 
 <!-- Liens CV et Contact -->
