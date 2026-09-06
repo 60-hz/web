@@ -3,6 +3,8 @@
 ## Workshops / enseignements en France et à l'étranger (sélection)
 <br>
 
+- [Creativity and technology - Paris College of Art - 2026](https://sites.google.com/view/workshop-cables-gl-pca/accueil)
+
 - [Médias numériques et nouvelles formes de narration - 2026](https://sites.google.com/view/nouvellesformesdenarration/accueil?read_current=1)
 
 - [Technique: réalité augmentée - Esdac - 2025](https://www.raphaelisdant.com/enseignements/technique-réalité-augmentée-esdac/)
