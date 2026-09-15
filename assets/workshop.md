@@ -35,7 +35,7 @@
 
 - [Atelier Arts & Design - "Objets sensibles", Paris, 2019](https://www.raphaelisdant.com/enseignements/workshop-aad-paris-2019/)
 
-- [Atelier Art & Design - "Réalité nouvelle" ISPA, Amiens - 2019](https://www.raphaelisdant.com/enseignements/workshop-aad-amiens-2019/)
+- [Atelier Art & Design - "Dévoilement - exposer l'invisible" ISPA, Amiens - 2019](https://www.raphaelisdant.com/enseignements/workshop-aad-amiens-2019/)
 
 - [Atelier Art & Design - "Lumière, matière vivante" - Workshop espaces numériques, Shanghaï, 2018](https://www.raphaelisdant.com/enseignements/workshop-aad-shanghaï-2018/)
 
