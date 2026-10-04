@@ -1,30 +1,37 @@
----
+# 散落之火 (The Scattering of Fire)
 
-# 飄浪之女 - The Wandering Girl 
 
-### 數位裝置藝術 - Interactive installation for two bodies
+### 跨媒體體驗 - Webapp
 
-《飄浪之女》（The Wandering Girl）將台灣歌曲指標性人物文夏（1928-2022）出道成名曲《飄浪之女》的歌詞具象化。這件數位藝術作品以黃志偉（Huang Chih-Wei）的畫作為基礎，讓字體緩緩落下，隨著繪畫材質的節奏吟唱著文本。
+在旗津島（台灣）的天后宮展出，《散落之火》（The Scattering of Fire）是與台灣藝術家楊淯緹（Yu-Ti Yang）合作設計的跨媒體體驗項目，她的父親是1969年在密西西比河悲慘沉沒的聯合信仰號（Union Faith）貨輪的船長。
 
-這場視覺編舞是時光流逝的真實隱喻，讓觀者沉浸在關於流浪、鄉愁與憂鬱的冥想之中。該裝置作為「時代的迴音」展覽的一部分，於文夏故事館（Wenxia Story House）展出。
+與游恩恩（En-En You）的表演相呼應，觀眾被邀請揭示空間中一條無形的軌跡：連接島上寺廟與沉船確切地點的軌跡。只需透過掃描QR code的簡單手勢，智慧型手機便成為一種地理詩學定位儀器，跨越全球指向那艘消失的沉船。
 
-##### 即時3D動畫、聲音、油畫。
+行為展演的工作夥伴：
+創作計畫發起者＆行為展演：楊淯緹
+行為展演：游恩恩
+多媒體：Raphaël Isdant
+工作夥伴：楊淳安、吳約翰、葉炫均
+攝影紀錄：劉麗榮
+水餃遊戲群：娜娜、小柚、沂橙、宇傑
+
+
+##### 即時3D動畫、智慧型手機、陀螺儀感測器。
+
 
 <div class="galerie-automatique">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo1.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo2.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo3.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen1.png">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen2.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint1.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint2.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering4.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering0.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering2.jpeg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering3.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering1.png">
 </div>
 
 <br>
 
 <iframe 
-  src="https://www.youtube.com/embed/tWPImW_Jdsk" 
-  title="YouTube video player" 
+  src="https://60-hz.github.io/ScatteringOfFire/" 
+  title="Scattering of Fire - cables.gl" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
   referrerpolicy="strict-origin-when-cross-origin" 
@@ -36,17 +43,20 @@
 
 ---
 
-# 連結的身軀 - Linked Body
+# 身體相連 - Linked Body
+
 
 ### 雙人互動裝置 - Interactive installation for two bodies
 
-《連結的身軀》（Corps Raccord）讓一對參觀者面對由虛擬繩索連接的兩面鑼（代表陰陽能量的日與月）。在短暫的時間內，他們必須保持肌膚接觸以激發繩索的振動，這正是結合的隱喻。接著，接觸的強度會被測量，神諭的字符彷彿隨之成形。當敲響鑼時，社群網路Twitter上一名用戶在同一時刻表達的想法便會被釋放：它陳述了作者最近的感情經歷。該項目關注於人類關係（精神、兄弟情誼、浪漫甚至性）中產生的原始情感，以及它們在喧囂的社群網路中的表達方式。與Chiang Chia-Chi合作。
+《身體相連》（Corps Raccord）將兩名遊客置於兩面銅鑼（代表太陽和月亮、陰陽能量）前，兩面銅鑼由一條虛擬繩索連接。在短暫的時間內，他們必須保持肌膚接觸以激發繩索，這象徵著這種結合。隨後，接觸的強度會被測量，神諭的字符似乎開始形成。當敲擊銅鑼時，同一時刻推特社群網路使用者表達的想法會被釋放：它陳述了作者最近的人際關係經歷。該計畫關注人類關係（精神、兄弟、浪漫甚至性）中產生的原始情感，正如它們在網路的喧囂中所表達的那樣。與Chiang Chia-Chi合作。
 
 <span style="color: gray;">
-《連結的身軀》榮獲2018年Laval Virtual虛擬實境展「Recto VRso」數位創作類獎項。
+《身體相連》榮獲2018年拉瓦爾虛擬實境獎（Laval Virtual Award）「Recto VRso」數位創作類獎項。
 </span>
 
-##### 即時3D動畫、RTL-SDR無線電接收器、樹莓派（Raspberry Pi）、為AIS校準的船用天線。
+##### 即時3D動畫、RTL-SDR無線電接收器、樹莓派（RaspberryPi）、針對AIS校準的船用天線。
+
+
 
 <div class="galerie-automatique">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Corps-Raccord/action%20visiteurs%201.jpg">
@@ -74,13 +84,14 @@
 
 ---
 
-# 海洋的迴音 - Echo from the sea
+# 海之迴聲 - Echo from the sea
 
-### 連結海上活動的視聽裝置 - Audiovisual installation connected to maritime activity
+### 互聯海事活動的視聽裝置 - Audiovisual installation connected to maritime activity
 
-在人類開發的眾多通訊系統中，AIS依靠安裝在船隻上的無線電收發器，讓它們能夠持續交換海上航行所需的實用資訊（身分、位置、速度、活動等）。《海洋的迴音》（L'Echo de la mer）透過天線即時捕捉這些在VHF頻率上編碼和廣播的原始發射訊號，將其轉化為大量抽象的視聽波浪，極像一片洶湧的海洋。因此，這些從海上廣播的訊息傳回給我們，在氣候變遷導致海平面上升成為現實的當下，湧現在觀眾面前。
+在人類開發的眾多通訊系統中，AIS系統依賴放置在船上的無線電收發器，使它們能夠持續交換海上導航的有用資訊（身分、位置、速度、活動等）。《海之迴聲》使用天線即時捕捉這些在VHF頻率上編碼和廣播的原始發射訊號，將其轉化為類似於洶湧海洋的抽象視聽波浪。因此，這些從海上廣播的訊息回到我們身邊，在觀眾面前湧現，而此時由於氣候變遷導致的海平面上升正成為現實。
 
-##### 即時3D動畫、RTL-SDR無線電接收器、樹莓派（Raspberry Pi）、為AIS校準的船用天線。
+##### 即時3D動畫、RTL-SDR無線電接收器、樹莓派（RaspberryPi）、針對AIS校準的船用天線。
+
 
 <div class="galerie-automatique">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Echo/Echo%20Essaouira1%20HD.jpeg">
@@ -98,15 +109,16 @@
 
 ---
 
-# Hekkah：我發文故我在 - I post therefore I am
+# Hekkah：我發布，故我在 - I post therefore I am
 
-### 線上共享虛擬化身 - Online shared avatar
+### 線上共享虛擬形象 - Online shared avatar
 
-該項目將笛卡兒的「我思故我在」轉移到數位領域，在該領域中，存在的證明不再只是思考，而是社會行動及其在網路上的發布：「我發文故我在」。
+該計畫將笛卡兒的「我思故我在」移植到數位領域，在那裡存在的證明不再僅僅是思想，而是社會行為及其線上發布：「我發布，故我在」。
 
-Hekkah由一個Facebook個人檔案和應用程式組成，並延伸為一個互動裝置。這兩個空間動態連接，並在一個回饋過程中進行對話。透過她的線上檔案與Hekkah成為朋友，大眾同意為一個在展覽空間中可見的藝術項目提供素材：Hekkah是藝術與世界之間的介面。她誕生於她所體現的資訊流，其形態的輪廓只有透過她聯絡人的活動和發文才能看見。她的網路是她的命脈，從而使她能夠存在並留在我們的記憶中。如果社群網路消亡，她也會隨之消失。
+Hekkah由一個個人主頁和一個透過互動裝置延伸的Facebook應用程式組成。這兩個空間動態連接並在回饋過程中進行對話。公眾透過線上主頁成為Hekkah的朋友，即同意為展覽空間中可見的藝術計畫提供素材：Hekkah是藝術與世界之間的介面。她源於她所體現的資料流，其形狀的輪廓只有透過她聯絡人的活動和發布才可見。她的網路是她的命脈，使她能夠存在並留在我們的記憶中。如果社群網路消亡，她也會隨之消失。
 
 ##### 即時3D動畫、Facebook API連接、紅外線攝影機。
+
 
 <div class="galerie-automatique">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Hekkah/Hekkah%20-%20%20Acce%CC%80s(s)%20cultures%20e%CC%81lectroniques%20-%20%23MeltingPoint%20-%202020%20HD.jpg">
@@ -119,4 +131,14 @@ Hekkah由一個Facebook個人檔案和應用程式組成，並延伸為一個互
 
 <br>
 
-<p>
+<iframe 
+  src="https://www.youtube.com/embed/d4Jx-Vf1SyA" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen
+  style="width: 100%; height: auto; aspect-ratio: 16 / 9;"
+></iframe>
+
+<br>

@@ -1,30 +1,36 @@
----
+# 散落之火 (The Scattering of Fire)
 
-# 飘浪之女 - The Wandering Girl 
 
-### 数字装置艺术 - Interactive installation for two bodies
+### 跨媒体体验 - Webapp
 
-《飘浪之女》（The Wandering Girl）将台湾歌曲标志性人物文夏（1928-2022）出道成名曲《飘浪之女》的歌词具象化。这件数字艺术作品以黄志伟（Huang Chih-Wei）的画作为基础，让字体缓缓落下，随着绘画材质的节奏吟唱着文本。
+在旗津岛（台湾）的天后宫展出，《散落之火》（The Scattering of Fire）是与台湾艺术家杨淯緹（Yu-Ti Yang）合作设计的跨媒体体验项目，她的父亲是1969年在密西西比河悲惨沉没的联合信仰号（Union Faith）货轮的船长。
 
-这场视觉编舞是时光流逝的真实隐喻，让观者沉浸在关于流浪、乡愁与忧郁的冥想之中。该装置作为“时代的回音”展览的一部分，于文夏故事馆（Wenxia Story House）展出。
+与游恩恩（En-En You）的表演相呼应，观众被邀请揭示空间中一条无形的轨迹：连接岛上寺庙与沉船确切地点的轨迹。只需通过扫描二维码的简单手势，智能手机便成为一种地理诗学定位仪器，跨越全球指向那艘消失的沉船。
 
-##### 实时3D动画、声音、油画。
+项目发起人与表演者：Yu-Ti Yang (杨淯缇)
+表演者：En-En You (游恩恩)
+多媒体创作：Raphaël Isdant
+制作团队 / 合作者：Chun-An Yang (杨淳安), John Wu (吴约翰), Xuan-Jun Ye (叶炫均)
+摄影记录：Li-Rong Liu (刘丽荣)
+“水饺游戏”群组 (Dumpling Game Group)：Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie (宇杰)
+
+
+##### 实时3D动画、智能手机、陀螺仪传感器。
+
 
 <div class="galerie-automatique">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo1.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo2.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo3.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen1.png">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen2.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint1.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint2.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering4.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering0.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering2.jpeg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering3.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering1.png">
 </div>
 
 <br>
 
 <iframe 
-  src="https://www.youtube.com/embed/tWPImW_Jdsk" 
-  title="YouTube video player" 
+  src="https://60-hz.github.io/ScatteringOfFire/" 
+  title="Scattering of Fire - cables.gl" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
   referrerpolicy="strict-origin-when-cross-origin" 
@@ -36,17 +42,20 @@
 
 ---
 
-# 连结的身躯 - Linked Body
+# 身体相连 - Linked Body
+
 
 ### 双人互动装置 - Interactive installation for two bodies
 
-《连结的身躯》（Corps Raccord）让一对参观者面对由虚拟绳索连接的两面锣（代表阴阳能量的日与月）。在短暂的时间内，他们必须保持肌肤接触以激发绳索的振动，这正是结合的隐喻。接着，接触的强度会被测量，神谕的字符仿佛随之成形。当敲响锣时，社交网络Twitter上一名用户在同一时刻表达的想法便会被释放：它陈述了作者最近的感情经历。该项目关注于人类关系（精神、兄弟情谊、浪漫甚至性）中产生的原始情感，以及它们在喧嚣的社交网络中的表达方式。与Chiang Chia-Chi合作。
+《身体相连》（Corps Raccord）将两名游客置于两面铜锣（代表太阳和月亮、阴阳能量）前，两面铜锣由一条虚拟绳索连接。在短暂的时间内，他们必须保持肌肤接触以激发绳索，这象征着这种结合。随后，接触的强度会被测量，神谕的字符似乎开始形成。当敲击铜锣时，同一时刻推特社交网络用户表达的想法会被释放：它陈述了作者最近的人际关系经历。该项目关注人类关系（精神、兄弟、浪漫甚至性）中产生的原始情感，正如它们在网络的喧嚣中所表达的那样。与Chiang Chia-Chi合作。
 
 <span style="color: gray;">
-《连结的身躯》荣获2018年Laval Virtual虚拟现实展“Recto VRso”数字创作类奖项。
+《身体相连》荣获2018年拉瓦尔虚拟现实奖（Laval Virtual Award）“Recto VRso”数字创作类奖项。
 </span>
 
-##### 实时3D动画、RTL-SDR无线电接收器、树莓派（Raspberry Pi）、为AIS校准的船用天线。
+##### 实时3D动画、RTL-SDR无线电接收器、树莓派（RaspberryPi）、针对AIS校准的船用天线。
+
+
 
 <div class="galerie-automatique">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Corps-Raccord/action%20visiteurs%201.jpg">
@@ -74,13 +83,14 @@
 
 ---
 
-# 海洋的回音 - Echo from the sea
+# 海之回声 - Echo from the sea
 
-### 连结海上活动的视听装置 - Audiovisual installation connected to maritime activity
+### 互联海事活动的视听装置 - Audiovisual installation connected to maritime activity
 
-在人类开发的众多通信系统中，AIS依靠安装在船只上的无线电收发器，让它们能够持续交换海上航行所需的实用信息（身份、位置、速度、活动等）。《海洋的回音》（L'Echo de la mer）透过天线实时捕捉这些在VHF频率上编码和广播的原始发射信号，将其转化为大量抽象的视听波浪，极像一片汹涌的海洋。因此，这些从海上广播的信息传回给我们，在气候变暖导致海平面上升成为现实的当下，涌现在观众面前。
+在人类开发的众多通信系统中，AIS系统依赖放置在船上的无线电收发器，使它们能够持续交换海上导航的有用信息（身份、位置、速度、活动等）。《海之回声》使用天线实时捕捉这些在VHF频率上编码和广播的原始发射信号，将其转化为类似于汹涌海洋的抽象视听波浪。因此，这些从海上广播的消息回到我们身边，在观众面前涌现，而此时由于气候变化导致的海平面上升正成为现实。
 
-##### 实时3D动画、RTL-SDR无线电接收器、树莓派（Raspberry Pi）、为AIS校准的船用天线。
+##### 实时3D动画、RTL-SDR无线电接收器、树莓派（RaspberryPi）、针对AIS校准的船用天线。
+
 
 <div class="galerie-automatique">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Echo/Echo%20Essaouira1%20HD.jpeg">
@@ -98,15 +108,16 @@
 
 ---
 
-# Hekkah：我发文故我在 - I post therefore I am
+# Hekkah：我发布，故我在 - I post therefore I am
 
-### 线上共享虚拟化身 - Online shared avatar
+### 在线共享虚拟形象 - Online shared avatar
 
-该项目将笛卡儿的“我思故我在”转移到数字领域，在该领域中，存在的证明不再只是思考，而是社会行动及其在网络上的发布：“我发文故我在”。
+该项目将笛卡尔的“我思故我在”移植到数字领域，在那里存在的证明不再仅仅是思想，而是社会行为及其在线发布：“我发布，故我在”。
 
-Hekkah由一个Facebook个人主页和应用程序组成，并延伸为一个互动装置。这两个空间动态连接，并在一个反馈过程中进行对话。透过她的线上主页与Hekkah成为朋友，大众同意为一个在展览空间中可见的艺术项目提供素材：Hekkah是艺术与世界之间的界面。她诞生于她所体现的信息流，其形态的轮廓只有透过她联系人的活动和发文才能看见。她的网络是她的命脉，从而使她能够存在并留在我们的记忆中。如果社交网络消亡，她也会随之消失。
+Hekkah由一个个人主页和一个通过互动装置延伸的Facebook应用程序组成。这两个空间动态连接并在反馈过程中进行对话。公众通过在线主页成为Hekkah的朋友，即同意为展览空间中可见的艺术项目提供素材：Hekkah是艺术与世界之间的接口。她源于她所体现的数据流，其形状的轮廓只有通过她联系人的活动和发布才可见。她的网络是她的命脉，使她能够存在并留在我们的记忆中。如果社交网络消亡，她也会随之消失。
 
-##### 实时3D动画、Facebook API连接、红外摄像机。
+##### 实时3D动画、Facebook API连接、红外摄像头。
+
 
 <div class="galerie-automatique">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Hekkah/Hekkah%20-%20%20Acce%CC%80s(s)%20cultures%20e%CC%81lectroniques%20-%20%23MeltingPoint%20-%202020%20HD.jpg">
@@ -130,5 +141,3 @@ Hekkah由一个Facebook个人主页和应用程序组成，并延伸为一个互
 ></iframe>
 
 <br>
-
-<p>

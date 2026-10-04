@@ -1,286 +1,86 @@
----
+# Brikabrak工作室，2026年巴黎科學工業城2-6歲兒童城
 
-# Brikabrak工作坊，2-6歲兒童城，巴黎科學與工業城，2026年
+### 面向年輕觀眾的聲光微縮景觀
 
+為2026年安裝在兒童城的「Brikabrak工作室」微縮景觀設計並製作聲光同步系統。
+這個由紙張藝術家Mathilde Nivet創作的微縮景觀，將遊客沉浸在一個充滿創意角色的神奇動畫世界中，角色們在一個由天然材料（紙張、紙板、木材等）製成的手工背景中演變。
 
-### 專為年輕觀眾設計的聲光立體透視模型
+動態和敘事性的照明隨著故事的發展而變化，而由具體聲音組成的聲音設計則伴隨著由演員演繹的多語種人聲旁白。
 
-為2026年安裝於兒童城（Cité des enfants）的「L’atelier des Brikabrak」立體透視模型設計並製作聲光同步系統。
-這個由紙藝家Mathilde Nivet創作的立體透視模型，讓參觀者沉浸在充滿創意角色的奇幻動畫世界中，這些角色在由天然材料（紙張、紙板、木材等）手工製作的場景中活動。
+##### 聲光同步、照明、程式設計
 
-動態且具敘事性的燈光會隨著故事發展而變化，而由具體聲音組成的音效設計則伴隨著由演員演出的多語種語音旁白。
+# 漂浪之女 - The Wandering Girl
 
-<span style="color: gray;">
-木工：Yann Bailleux<br>
-場景創作：Mathilde Nivet<br>
-語音錄製：Studio Scopitone<br>
-程式設計、電子、燈光及音效設計：Raphaël Isdant<br>
-攝影：A Robin - eppdcsi
-</span>
+### 數位裝置 - Interactive installation
 
+《漂浪之女》（The Wandering Girl）將《飄浪之女》的歌詞具象化，這是開啟台灣歌曲守護神文夏（Wen Xia，1928-2022）職業生涯的開創性曲目。這部數位藝術作品構思於黃志偉（Huang Chih-Wei）的畫作，讓排版字符隨著繪畫材質的節奏緩慢落下以吟唱文本。
 
-##### 聲光同步、燈光、程式設計
+這種視覺編舞真正隱喻了時間的流逝，讓觀眾沉浸在對流浪、懷舊和憂鬱的冥想中。該裝置作為「時代的迴聲」展覽的一部分在文夏故事館展出。
 
-  <!-- [Download the Echo de la mer folder](#)
+##### 即時3D動畫、聲音、油畫。
 
-[Download the Echo de la mer Images](#) -->
+# 橘貓聊天室（Oman Chat） - 2024年台灣崑山科技大學
 
+### 2024年放視大賞（Vision get Wild）展台
 
-<div class="galerie-automatique">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/4468_V_Besnard-eppdcsi-88.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/4465_A_Robin-eppdcsi-45.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/4465_A_Robin-eppdcsi-46.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/IMG_20260520_174626.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/IMG_20260603_180400.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/Brikabrak-Simulateur1.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/Brikabrak-ecriture.jpg">
-</div>
+受崑山科技大學創意媒體學院（台灣）委託，在高雄2024年「放視大賞」（VGW）藝術節期間展出。這面以貓為主題的互動牆利用紅外線攝影機檢測，讓遊客能夠與該系的吉祥物共舞。它還提供了透過智慧型手機直接留言的可能性，將字符轉化為螢幕上的物理模型。
 
-<br>
+「放視大賞」是台灣最大的跨領域數位設計藝術節。成立於2011年，在數位發展部的支持下，它涵蓋動畫、電玩遊戲、設計和互動技術，為學生提供了一個展示的跳板。
 
----
+##### 即時3D動畫、聲音反應、3D攝影機感測器、行動Web App、多用戶互動。
 
-# 阿曼貓 (Oman Cat) - 台灣崑山科技大學，2024年
-
-
-### 2024放視大賞展位
-
-受台灣崑山科技大學創意媒體學院委託，於高雄舉辦的2024年「放視大賞」(VGW) 節慶中展出。這面以貓為主題的互動牆透過紅外線攝影機偵測，讓參觀者能夠與該系所的吉祥物共舞。它還提供了透過智慧型手機即時留言的功能，將文字在螢幕上轉化為具物理特性的模型。
-
-「放視大賞」是台灣最大的跨領域數位設計展。創立於2011年並由數位發展部支持，它作為學生的跳板，涵蓋動畫、遊戲、設計和互動科技等領域。
-
-<span style="color: gray;">
-概念、創作、平面設計、音效設計：Raphaël Isdant
-</span>
-
-
-##### 即時3D動畫、聲音互動、3D攝影機感測器、行動網路應用程式、多用戶互動。
-
-  <!-- [Download the Echo de la mer folder](#)
-
-[Download the Echo de la mer Images](#) -->
-
-
-<div class="galerie-automatique">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman1.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman2.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman3.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman4.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman5.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman6.jpg">
-</div>
-
-<iframe 
-  src="https://www.youtube.com/embed/QAJ6Bbw95VM" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen
-  style="width: 100%; height: auto; aspect-ratio: 16 / 9;"
-></iframe>
-
-<br>
-
----
-
-# 類比尼姆 (The Analog Nîmes) - 尼姆羅馬文化博物館，2024年
-
+# 模擬尼姆（La Nîmes analogue） - 2024年尼姆羅馬博物館
 
 ### 沉浸式互動裝置
 
-《類比尼姆》是一件位於尼姆羅馬文化博物館參觀路線終點的互動藝術裝置。受Arduino Cantàfora和Aldo Rossi於1970年代的概念啟發，它邀請參觀者與一座由不同歷史時期組成的虛實交錯城市互動。這座城市的獨特之處在於，其建築會根據時間及參觀者的出現而建構與解構。景觀中的三個互動點會觸發關於博物館標誌性作品的15個故事，講述它們與尼姆歷史的聯繫。
+《模擬尼姆》是一個位於尼姆羅馬博物館參觀路線末端的互動藝術裝置。受Arduino Cantàfora和Aldo Rossi在20世紀70年代概念的啟發，它讓遊客可以體驗一個由不同歷史時期組成的虛擬與現實交織的城市。這個城市的特點是其建築物會根據時間和遊客的存在而建設和解構。景觀中的三個互動點可以觸發15個關於博物館標誌性作品的故事，講述它們與尼姆歷史的聯繫。
 
-空間化的5.1環繞音效創作將參觀者帶入一種既原始又生動的體驗中。這件聲音創作以非線性方式發展並豐富了互動音效，與視覺環境編織出強烈的對話。它絕非簡單的插圖，而是巧妙地喚起了高盧-羅馬時代，引發了超越歷史表象的感官沉浸。
+5.1聲道的空間化聲音構圖將遊客帶入一種既原始又生動的體驗核心。這種聲音創作以非線性方式演變並豐富了互動聲音，與視覺環境編織出激烈的對話。它遠非簡單的插圖，而是微妙地喚起了高盧-羅馬時代，引發了超越歷史再現的感官沉浸。
 
-<span style="color: gray;">
-概念、創作、多媒體：Active Creative Design<br>
-概念、開發：Emmanuel Mâa Berriet<br>
-製作監督：Jean Pascal Marron（尼姆羅馬文化博物館）<br>
-音效設計與空間化系統：Raphaël Isdant
-</span>
+##### 動態圖形設計、即時粒子、現場聲音設計和5.1音訊空間化
 
-##### 動態圖形設計、即時粒子、現場音效設計及5.1音訊空間化
-
-  <!-- [Download the Echo de la mer folder](#)
-
-[Download the Echo de la mer Images](#) -->
-
-
-<div class="galerie-automatique">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes1.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes2.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes3.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes4.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes5.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes6.jpg">
-</div>
-
-<br>
-
----
-
-# N.O.É - 萊塔納里當代藝術中心，2023年。
+# N.O.É - 2023年Les Tanneries當代藝術中心。
 
 ### 懸掛式自主互動雕塑藝術裝置
 
+為Les Tanneries當代藝術中心Victor Cord'homme的展覽「N.O.É：觀察星星的吊籃」（Nacelle Observant les Étoiles）製作數位設備、感測器和程式設計。
 
-為Victor Cord'homme在萊塔納里當代藝術中心（Les Tanneries）展出的「N.O.É：觀察星星的吊艙」展覽製作數位系統、感測器和程式。
+N.O.É是一個互動的自主裝置，隨著遊客的經過和太陽能運作。
 
-N.O.É是一件互動且自主的裝置，利用參觀者的步行動能和太陽能運作。
+在這個自給自足的空間內，能量由雕塑產生和使用，空間內的遊客越多，展覽就越充滿動感。
 
-在這個自給自足的空間內，能量由雕塑產生並使用；空間內的參觀者越多，展覽的動態就越豐富。
+玻璃屋頂下的空間佈滿了一個由懸掛和機動雕塑組成的生態系統，讓人想起達文西、考爾德或丁格利。它們在能源上完全自主，並根據觀眾數量和鞦韆運動活動提供的身體能量被激活。
 
-玻璃屋頂下的空間佈滿了由懸浮和電動雕塑組成的生態系統，讓人聯想到達文西、考爾德（Calder）或丁格利（Tinguely）的作品。這些雕塑完全實現了能源自主，並根據觀眾人數和鞦韆運動所提供的身體能量來啟動。
+中央控制室可以管理25件懸掛雕塑的能量分配，並即時顯示系統狀態。
 
-一個中央控制室管理著能量向25件懸掛雕塑的分配，並即時顯示系統狀態。
+##### 電子系統、太陽能電池板、電池、機械工程
 
-<span style="color: gray;">
-概念、創作：Victor Cord'homme<br>
-電子系統、螢幕與程式設計：Raphaël Isdant
-</span>
-
-##### 電子系統、太陽能板、電池、機械工程
-
-  <!-- [Download the Echo de la mer folder](#)
-
-[Download the Echo de la mer Images](#) -->
-
-
-<div class="galerie-automatique">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/IMG_0445_13_3746.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/Vue-d-installation-8-web_1419.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/N.O.E-vue-d-installation-4-web_1581.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/N.O.E-vue-d-installation-10-web_1334.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/N.O.E-vue-d-installation-18-web_1665.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/Vue-d-installation-8-web_1419.jpg">
-</div>
-
-<iframe 
-  src="https://www.youtube.com/embed/rJzIbARsWcA" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen
-  style="width: 100%; height: auto; aspect-ratio: 16 / 9;"
-></iframe>
-
-
-<br>
-
----
-
-# 單點訂製的孩子 (A Child À La Carte) - 巴黎人類博物館，2022年
-
+# 訂製兒童（Un enfant à la carte） - 2022年巴黎人類博物館
 
 ### 反烏托邦互動實驗室
 
+人類博物館的《人類邊界》（Aux frontières de l’Humain）展覽向遊客提出了關於我們的極限、我們作為人類的未來，以及更廣泛地，地球未來的疑問。
 
-人類博物館的「人類的邊界」（Aux frontières de l’Humain）展覽探討了我們作為人類的極限、未來，以及更廣泛的地球未來，並向參觀者提出反思。
+為此次展覽，Active Creative Design設計並製作了「訂製兒童」互動設備，讓遊客可以透過實驗室工作台，透過一家名為「完美嬰兒公司」（Perfect baby company）的虛構公司的服務來設計自己的基因改造嬰兒。在一個3D虛擬助手的幫助下，他們進行了一系列涉及倫理和道德領域的醫療操作。此外，牆上的投影以資料視覺化的形式呈現了整個公眾提供的不同答案的統計資料。
 
-針對此次展覽，Active Creative Design設計並製作了互動裝置《單點訂製的孩子》（Un enfant à la carte），讓參觀者能夠利用實驗工作檯，透過名為「Perfect baby company」的虛構公司服務，設計自己的基因改造嬰兒。在3D虛擬助手的協助下，他們進行了一系列引發倫理和道德質疑的醫療操作。此外，牆上的投影以數據視覺化的形式顯示了所有觀眾所提供答案的統計數據。
+工作室承擔了工作台的整體設計和相關的電子設備。該計畫特別整合了許多透過3D列印製作的原創技術對象：基因掃描器、顯微鏡等。
 
-該工作室負責了工作檯及其相關電子設備的整體設計。該項目特別結合了許多透過3D列印創建的原創科技物件：基因掃描器、顯微鏡等...
+##### 木工、3D列印、多媒體、電子、聲音設計
 
-<span style="color: gray;">
-概念、創作、多媒體：Active Creative Design<br>
-電子系統、燈光、感測器及音效設計：Raphaël Isdant
-</span>
+# Adidas Ultraboost櫥窗 - 2021年巴黎香榭麗舍大道概念店
 
-##### 木工、3D列印、多媒體、電子、音效設計
+### 機器人互動櫥窗和動畫媒體播放
 
-  <!-- [Download the Echo de la mer folder](#)
+為了發布新款Adidas Ultraboost鞋型，Active Creative Design為香榭麗舍大道概念店製作了一個結合了機電整合和動態設計的多媒體櫥窗。它在測試台上重現了跑步者的步伐，該測試台由8隻鞋組成，由同樣數量的工業執行器和伺服馬達驅動。在與客戶的互動中，該裝置還額外協調了沉浸式即時媒體的播放。
 
-[Download the Echo de la mer Images](#) -->
+##### 電子、多媒體、攝影捕捉、機械工程
 
-
-<div class="galerie-automatique">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/Humains-expo2.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/ACD_H_05-scaled.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/ACD_V_02.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/20210720_113746.jpeg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/humain02.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/ACD_V_11.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/Enfant01SD.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/20210720_170019.jpeg">
-</div>
-
-<br>
-
----
-
-# 愛迪達 Ultraboost 櫥窗展示 - 巴黎香榭麗舍概念店，2021年
-
-
-### 互動機器人櫥窗展示與動畫媒體播放
-
-
-為配合全新Adidas Ultraboost鞋款的發佈，Active Creative Design為香榭麗舍概念店打造了結合機電工程與動態設計的多媒體櫥窗展示。它在一個由8隻鞋子組成的測試台上重現了跑者的步伐，這些鞋子由相同數量的工業驅動器和伺服馬達驅動。在與顧客互動的同時，該裝置同步策劃並播放沉浸式即時媒體。
-
-<span style="color: gray;">
-概念、創作、多媒體：Active Creative Design<br>
-電子系統與伺服馬達程式設計：Raphaël Isdant
-</span>
-
-##### 電子、多媒體、攝影機捕捉、機械工程
-
-  <!-- [Download the Echo de la mer folder](#)
-
-[Download the Echo de la mer Images](#) -->
-
-
-<div class="galerie-automatique">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_1-scaled.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_2-clean-scaled.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_4-scaled.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_5-scaled.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_00.jpeg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_01.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_02.jpg">
-</div>
-
-
-<iframe 
-  src="https://www.youtube.com/embed/9lKsMPyAeC4" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen
-  style="width: 100%; height: auto; aspect-ratio: 16 / 9;"
-></iframe>
-
-<br>
-
----
-
-# 擴增解剖學 (Augmented Anatomy) - 巴黎發現宮，2018年
-
+# 擴增解剖學（Anatomie Augmentée） - 2018年發現宮
 
 ### 互動魔鏡
 
-《擴增解剖學》邀請發現宮的公眾以自己的身體為媒介來接觸人體解剖學。站在互動區內，參觀者會透過虛擬鏡面效果，在螢幕上看到一具重現其動作的骨骼。接著，他們可以透過手勢選擇不同的器官，並將其放置在身體的正確位置上，作為回饋，他們會看到一段關於該器官在我們生物體內作用的科學動畫。
+「擴增解剖學」邀請發現宮的公眾以自己的身體為媒介來探索人體解剖學。遊客站在互動區，透過虛擬鏡面效應在螢幕上顯示一個重現其動作的骨架。然後他們可以透過手勢選擇不同的器官，必須將它們放置在身體的正確位置，作為回報，他們將獲得關於這些器官在人體中作用的科學動畫。
 
-該裝置採用非接觸式介面，讓參觀者能夠根據身體動作進行互動。
+該設備具有非接觸式介面，允許遊客根據其身體動作進行互動。
 
-<span style="color: gray;">
-概念、創作、多媒體：Active Creative Design<br>
-音效與互動設計：Raphaël Isdant
-</span>
-
-##### 3D捕捉、互動設計、音效設計
-
-  <!-- [Download the Echo de la mer folder](#)
-
-[Download the Echo de la mer Images](#) -->
-
-
-<div class="galerie-automatique">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/AnatomieAugmentee/anatomie01.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/AnatomieAugmentee/anatomie02.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/AnatomieAugmentee/anatomie03.jpg">
-  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/AnatomieAugmentee/anatomie04.jpg">
-</div>
-
-<br>
+##### 3D捕捉、互動設計、聲音設計

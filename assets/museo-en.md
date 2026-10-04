@@ -1,18 +1,16 @@
----
-
-# The Brikabrak Workshop, Cité des enfants 2-6 years old at the Cité des sciences et de l’industrie, Paris 2026
+# L'atelier des brikabrak, Cité des enfants 2-6 ans at the Cité des sciences et de l’industrie, Paris 2026
 
 
 ### Sound and light diorama for young audiences
 
-Design and creation of the audio-light synchronization system for the “L’atelier des Brikabrak” diorama, installed in 2026 at the Cité des enfants.
-This diorama, created by paper-artist Mathilde Nivet, immerses visitors in the magical and animated world of creative characters, evolving in a handcrafted setting made of natural materials (paper, cardboard, wood…).
+Design and production of the audio-light synchronization system for the "L’atelier des Brikabrak" diorama, installed in 2026 at the Cité des enfants.
+This diorama, created by paper-artist Mathilde Nivet, immerses visitors in the magical and animated world of creative characters, evolving in a handcrafted setting made of natural materials (paper, cardboard, wood...).
 
-The lighting, dynamic and narrative, adapts to the story, while a sound design - composed of concrete sounds - accompanies a multilingual vocal narration performed by actors.
+The lighting, dynamic and narrative, adapts to the story, while a sound design - composed of concrete sounds - accompanies a multilingual vocal narration, performed by actors.
 
 <span style="color: gray;">
 Carpentry: Yann Bailleux<br>
-Set creation: Mathilde Nivet<br>
+Set design: Mathilde Nivet<br>
 Voice recording: Studio Scopitone<br>
 Programming, electronics, lighting, and sound design: Raphaël Isdant<br>
 Photos: A Robin - eppdcsi
@@ -21,9 +19,9 @@ Photos: A Robin - eppdcsi
 
 ##### Light and sound synchronization, Lighting, programming
 
-  <!-- [Download the Echo de la mer folder](#)
+  <!-- [Télécharger le dossier Echo de la mer](#)
 
-[Download the Echo de la mer Images](#) -->
+[Télécharger les Images Echo de la mer](#) -->
 
 
 <div class="galerie-automatique">
@@ -40,25 +38,64 @@ Photos: A Robin - eppdcsi
 
 ---
 
-# Oman Cat - Kunshan University, Taiwan 2024
+# La fille errante - The Wandering Girl 
 
 
-### Vision Get Wild 2024 Booth
+### Digital installation - Interactive installation
 
-Commissioned for the College of Creative Media (Kunshan University, Taiwan), presented at the "Vision Get Wild" (VGW) 2024 festival in Kaohsiung. This interactive wall with a cat theme allows visitors to dance with the department's mascot using infrared camera detection. It also offers the possibility to leave live messages from a smartphone, transforming the characters into physical models on the screen.
+The Wandering Girl gives substance to the lyrics of The Wandering Girl (飄浪之女), the founding track that launched the career of Wen Xia (1928-2022), a tutelary figure of Taiwanese song. Conceived from the paintings of Huang Chih-Wei (黃志偉), this digital artwork makes typographical characters fall slowly to chant the text to the rhythm of the pictorial material.
 
-"Vision Get Wild" is the largest interdisciplinary digital design festival in Taiwan. Created in 2011 and supported by the Ministry of Digital Affairs, it serves as a springboard for students, covering animation, video games, design, and interactive technologies.
+A true metaphor for escaping time, this visual choreography plunges the spectator into a meditation on wandering, nostalgia, and melancholy. The installation is presented at the Wenxia Museum (文夏故事館) as part of the "Echo of Times" exhibition.
+
+
+##### Real-time 3D animation, sound, oil painting.
+
+
+<div class="galerie-automatique">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo1.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo2.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo3.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen1.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen2.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint1.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint2.jpg">
+</div>
+
+<br>
+
+<iframe 
+  src="https://www.youtube.com/embed/tWPImW_Jdsk" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen
+  style="width: 100%; height: auto; aspect-ratio: 16 / 9;"
+></iframe>
+
+<br>
+
+---
+
+# Oman Chat - Kunshan University, Taiwan 2024
+
+
+### Vision get Wild 2024 Booth
+
+Commission for the College of Creative Media (Kunshan University, Taiwan), presented at the "Vision Get Wild" (VGW) 2024 festival in Kaohsiung. This interactive wall on the theme of cats allows the visitor to dance with the department's mascot thanks to infrared camera detection. It also offers the possibility of leaving live messages from their smartphone, transforming the characters into physical models on the screen.
+
+"Vision Get Wild" is Taiwan's largest interdisciplinary digital design festival. Created in 2011 and supported by the Ministry of Digital Affairs, it serves as a springboard for students by covering animation, video games, design, and interactive technologies.
 
 <span style="color: gray;">
-Concept, creation, graphic design, sound design: Raphaël Isdant
+Concept, production, graphic design, sound design: Raphaël Isdant
 </span>
 
 
-##### Real-time 3D animation, Sound reactive, 3D Camera sensor, Mobile Web App, Multi-user interaction.
+##### Real-time 3D animation, Sound reactive, 3D Camera sensor, Web App for Mobile, Multi-user interaction.
 
-  <!-- [Download the Echo de la mer folder](#)
+  <!-- [Télécharger le dossier Echo de la mer](#)
 
-[Download the Echo de la mer Images](#) -->
+[Télécharger les Images Echo de la mer](#) -->
 
 
 <div class="galerie-automatique">
@@ -84,27 +121,27 @@ Concept, creation, graphic design, sound design: Raphaël Isdant
 
 ---
 
-# The Analog Nîmes - Musée de la Romanité, Nîmes 2024
+# La Nîmes analogue - Musée de la Romanité, Nîmes 2024
 
 
-### Immersive and interactive installation
+### Immersive and interactive device
 
-The Analog Nîmes is an interactive art installation located at the end of the visit to the Musée de la Romanité in Nîmes. Inspired by a 1970s concept by Arduino Cantàfora and Aldo Rossi, it invites visitors to play with an imaginary and real city composed of different historical eras. The unique feature of this city is that its buildings are constructed and deconstructed based on time and the presence of visitors. Three interaction points in the landscape trigger 15 stories about emblematic works from the museum, recounting their connection to the history of Nîmes.
+Analog Nîmes is an interactive art installation located at the end of the tour of the Musée de la Romanité in Nîmes. Inspired by a 1970s concept by Arduino Cantàfora and Aldo Rossi, it offers visitors the chance to play with an imaginary and real city, composed of different historical eras. The particularity of this city is that its buildings are constructed and deconstructed according to time and the presence of visitors. Three interaction points in the landscape trigger 15 stories about emblematic works of the museum, recounting their connection with the history of Nîmes.
 
-A spatialized 5.1 sound composition plunges the visitor into an experience that is both raw and alive. Evolving non-linearly and enriched with interactive sounds, this sound creation weaves an intense dialogue with the visual environment. Far from a simple illustration, it subtly evokes the Gallo-Roman era, sparking a sensory immersion that transcends historical representation.
+A 5.1 spatialized sound composition immerses the visitor in the heart of an experience that is both raw and alive. Evolving in a non-linear way and enriched with interactive sounds, this sound creation weaves an intense dialogue with the visual environment. Far from a simple illustration, it subtly evokes the Gallo-Roman era, arousing a sensory immersion that transcends historical representation.
 
 <span style="color: gray;">
-Concept, creation, multimedia: Active Creative Design<br>
+Concept, production, multimedia: Active Creative Design<br>
 Concept, development: Emmanuel Mâa Berriet<br>
-Production supervision: Jean Pascal Marron (Musée de la Romanité)<br>
+Production management: Jean Pascal Marron (Musée de la Romanité)<br>
 Sound design and spatialization system: Raphaël Isdant
 </span>
 
-##### Dynamic graphic design, real-time particles, Live Sound Design and 5.1 audio spatialization
+##### Dynamic graphic design, real-time particles, live Sound Design and 5.1 audio spatialization
 
-  <!-- [Download the Echo de la mer folder](#)
+  <!-- [Télécharger le dossier Echo de la mer](#)
 
-[Download the Echo de la mer Images](#) -->
+[Télécharger les Images Echo de la mer](#) -->
 
 
 <div class="galerie-automatique">
@@ -120,31 +157,31 @@ Sound design and spatialization system: Raphaël Isdant
 
 ---
 
-# N.O.É - Les tanneries contemporary art center, 2023.
+# N.O.É - Centre d’art contemporain Les tanneries, 2023.
 
-### Art installation of suspended autonomous interactive sculptures
+### Art installation of autonomous suspended interactive sculptures
 
 
-Creation of the digital system, sensors, and programming for the "N.O.É: Nacelle Observant les Étoiles" (Star-Observing Nacelle) exhibition by Victor Cord'homme at the Les Tanneries contemporary center.
+Production of the digital device, sensors, and programming for the exhibition "N.O.É: Nacelle Observant les Étoiles" (Star-Observing Nacelle) by Victor Cord'homme at the contemporary art center Les Tanneries.
 
-N.O.É is an interactive and autonomous installation that operates using visitor foot traffic and solar energy.
+N.O.É is an interactive and autonomous installation that works with the passage of visitors and the energy of the sun.
 
-Within this self-sufficient space, energy is produced and used by the sculptures; the more visitors there are in the space, the more the exhibition moves.
+Within this autarkic space, energy is produced and used by the sculptures; the more visitors there are in the space, the more the exhibition sets into motion.
 
-The space under the glass roof is populated by an ecosystem of floating and motorized sculptures reminiscent of Leonardo da Vinci, Calder, or Tinguely. These are entirely energy-autonomous and are activated based on the number of spectators and the bodily energy provided by the movement of a swing.
+The space under the glass roof is populated by an ecosystem of floating and motorized sculptures reminiscent of Leonardo da Vinci, Calder, or Tinguely. These are completely energy-autonomous and are activated according to the number of spectators and the bodily energy provided by the movement activity of a swing.
 
-A central control room manages the distribution of energy to the 25 suspended sculptures and displays the system's status in real-time.
+A central control room manages the distribution of energy to the 25 suspended sculptures and displays the state of the system in real time. 
 
 <span style="color: gray;">
-Concept, creation: Victor Cord'homme<br>
-Electronic system, screen, and programming: Raphaël Isdant
+Concept, production: Victor Cord'homme\
+Electronic device, screen, and programming: Raphaël Isdant
 </span>
 
 ##### Electronic system, solar panels, batteries, mechanical engineering
 
-  <!-- [Download the Echo de la mer folder](#)
+  <!-- [Télécharger le dossier Echo de la mer](#)
 
-[Download the Echo de la mer Images](#) -->
+[Télécharger les Images Echo de la mer](#) -->
 
 
 <div class="galerie-automatique">
@@ -171,28 +208,28 @@ Electronic system, screen, and programming: Raphaël Isdant
 
 ---
 
-# A Child À La Carte - Musée de l'homme, Paris 2022
+# Un enfant à la carte - Musée de l'homme, Paris 2022
 
 
 ### Dystopian interactive laboratory
 
 
-The Aux frontières de l’Humain (At the Borders of the Human) exhibition at the Musée de l’Homme questions the visitor on our limits, our future as humans, and more broadly, that of the planet.
+The exhibition *Aux frontières de l’Humain* (At the Borders of Human) at the Musée de l’Homme questions the visitor about our limits, our future as humans, and, more globally, that of the planet.
 
-For this exhibition, Active Creative Design designed and produced the interactive installation Un enfant à la carte (A Child À La Carte), which allows visitors, using a laboratory bench, to design their own transgenic baby through the services of a fictional company named "Perfect baby company". With the help of a 3D virtual assistant, they engage in a series of medical operations questioning the fields of ethics and morality. Additionally, a wall projection displays the statistics of the various answers provided by the entire audience in the form of data visualization.
+For this exhibition, Active Creative Design conceived and produced the interactive device *Un enfant à la carte* (A la carte child) allowing the visitor, via a laboratory bench, to design their own transgenic baby through the service of a fictional company named "Perfect baby company". Using a 3D virtual assistant, they engage in a series of medical operations questioning the fields of ethics and morality. In addition, a wall projection uses data visualization to display statistics of the different answers provided by the entire audience.
 
-The studio handled the entire design of the benches and the associated electronics. The project notably incorporates many original technological objects created via 3D printing: a genetic scanner, a microscope…
+The studio was responsible for the entire design of the benches and the associated electronics. The project notably incorporates many original technological objects made by 3D printing: genetic scanner, microscope...
 
 <span style="color: gray;">
-Concept, creation, multimedia: Active Creative Design<br>
-Electronic system, lighting, sensors, and sound design: Raphaël Isdant
+Concept, production, multimedia: Active Creative Design<br>
+Electronic device, lighting, sensors, and sound design: Raphaël Isdant
 </span>
 
 ##### Carpentry, 3D printing, multimedia, electronics, sound design
 
-  <!-- [Download the Echo de la mer folder](#)
+  <!-- [Télécharger le dossier Echo de la mer](#)
 
-[Download the Echo de la mer Images](#) -->
+[Télécharger les Images Echo de la mer](#) -->
 
 
 <div class="galerie-automatique">
@@ -210,24 +247,24 @@ Electronic system, lighting, sensors, and sound design: Raphaël Isdant
 
 ---
 
-# Adidas Ultraboost Window Display - Champs Élysées Concept Store, Paris 2021
+# Vitrine Adidas Ultraboost - Concept store des Champs Élysées, Paris 2021
 
 
-### Interactive robotic window display and animated media broadcasts
+### Interactive robotic showcase and animated media broadcasts
 
 
-For the release of the new Adidas Ultraboost model, Active Creative Design created a multimedia window display combining mechatronics and motion design for the Champs Élysées concept store. It reproduces a runner's stride on a test bench composed of 8 shoes animated by as many industrial actuators and servomotors. Interacting with the customers, the installation simultaneously orchestrates the broadcast of immersive real-time media.
+For the release of the new Adidas Ultraboost model, Active Creative Design created a multimedia showcase combining mechatronics and motion design for the Champs Élysées concept store. It reproduces a runner's stride on a test bench composed of 8 shoes animated by as many industrial actuators and servomotors. In interaction with the customers, the device additionally orchestrates the broadcasting of immersive real-time media.
 
 <span style="color: gray;">
-Concept, creation, multimedia: Active Creative Design<br>
-Electronic system and servomotor programming: Raphaël Isdant
+Concept, production, multimedia: Active Creative Design<br>
+Electronic device and servomotor programming: Raphaël Isdant
 </span>
 
 ##### Electronics, multimedia, camera capture, mechanical engineering
 
-  <!-- [Download the Echo de la mer folder](#)
+  <!-- [Télécharger le dossier Echo de la mer](#)
 
-[Download the Echo de la mer Images](#) -->
+[Télécharger les Images Echo de la mer](#) -->
 
 
 <div class="galerie-automatique">
@@ -255,25 +292,25 @@ Electronic system and servomotor programming: Raphaël Isdant
 
 ---
 
-# Augmented Anatomy - Palais de la découverte, 2018
+# Anatomie Augmentée - Palais de la découverte, 2018
 
 
 ### Interactive magic mirror
 
-"Augmented Anatomy" invites the public at the Palais de la Découverte to approach human anatomy by using their own bodies as a medium. Taking a place in the interaction zone, the visitor causes a skeleton reproducing their movements to appear on the screen via a virtual mirror effect. They can then gesturally select different organs that they must place in the correct location on their body, receiving in return a scientific animation about their role within our organism.
+"Anatomie augmentée" (Augmented Anatomy) invites the public of the Palais de la Découverte to approach human anatomy using their own body as a medium. Taking place in the interaction zone, the visitor makes a skeleton reproducing their movements appear on the screen through a virtual mirror effect. They can then gesturally select different organs that they must place in the right spot on their body, receiving in return a scientific animation about their role within our organism.
 
-The installation features a contactless interface, allowing visitors to interact based on their body movements.
+The device features a touchless interface, allowing the visitor an interaction based on their body movements.
 
 <span style="color: gray;">
-Concept, creation, multimedia: Active Creative Design<br>
-Sound and interaction design: Raphaël Isdant
+Concept, production, multimedia: Active Creative Design<br>
+Sound design and interaction: Raphaël Isdant
 </span>
 
 ##### 3D capture, interaction design, sound design
 
-  <!-- [Download the Echo de la mer folder](#)
+  <!-- [Télécharger le dossier Echo de la mer](#)
 
-[Download the Echo de la mer Images](#) -->
+[Télécharger les Images Echo de la mer](#) -->
 
 
 <div class="galerie-automatique">
