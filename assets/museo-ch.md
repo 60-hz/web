@@ -13,7 +13,7 @@
 布景创作：Mathilde Nivet<br>
 语音录制：Studio Scopitone<br>
 编程、电子、灯光和声音设计：Raphaël Isdant<br>
-照片：A Robin - eppdcsi
+照片：A Robin - eppdcsi<br>
 </span>
 
 

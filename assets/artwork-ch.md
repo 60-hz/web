@@ -7,13 +7,14 @@
 
 与游恩恩（En-En You）的表演相呼应，观众被邀请揭示空间中一条无形的轨迹：连接岛上寺庙与沉船确切地点的轨迹。只需通过扫描二维码的简单手势，智能手机便成为一种地理诗学定位仪器，跨越全球指向那艘消失的沉船。
 
-项目发起人与表演者：Yu-Ti Yang (杨淯缇)
-表演者：En-En You (游恩恩)
-多媒体创作：Raphaël Isdant
-制作团队 / 合作者：Chun-An Yang (杨淳安), John Wu (吴约翰), Xuan-Jun Ye (叶炫均)
-摄影记录：Li-Rong Liu (刘丽荣)
-“水饺游戏”群组 (Dumpling Game Group)：Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie (宇杰)
-
+<span style="color: gray;">
+项目发起人与表演者：Yu-Ti Yang (杨淯缇)<br>
+表演者：En-En You (游恩恩)<br>
+多媒体创作：Raphaël Isdant<br>
+制作团队 / 合作者：Chun-An Yang (杨淳安), John Wu (吴约翰), Xuan-Jun Ye (叶炫均)<br>
+摄影记录：Li-Rong Liu (刘丽荣)<br>
+“水饺游戏”群组 (Dumpling Game Group)：Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie (宇杰)<br>
+</span>
 
 ##### 实时3D动画、智能手机、陀螺仪传感器。
 

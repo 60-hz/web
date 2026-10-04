@@ -11,13 +11,14 @@ Présentée au temple Tianhou, sur l’île de Cijin (Taïwan), The Scattering o
 
 En dialogue avec la performance d’En-En You, le public est convié à révéler une trajectoire invisible dans l’espace : celle reliant le temple insulaire au lieu précis du naufrage. Accessible d'un geste via un QR code, le smartphone devient un instrument d’orientation géopoétique tendu à travers le globe vers l'épave disparue.
 
-Initiatrice du projet & Performance : Yu-Ti Yang (楊淯緹)
-Performance : En-En You (游恩恩)
-Création multimédia : Raphaël Isdant
-Équipe de production / Collaborateurs : Chun-An Yang (楊淳安), John Wu (吳約翰), Xuan-Jun Ye (葉炫均)
-Documentation photographique : Li-Rong Liu (劉麗榮)
-Groupe du « Jeu des raviolis » (Dumpling Game Group) : Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie (宇傑)
-
+<span style="color: gray;">
+Initiatrice du projet & Performance : Yu-Ti Yang (楊淯緹)<br>
+Performance : En-En You (游恩恩)<br>
+Création multimédia : Raphaël Isdant<br>
+Équipe de production / Collaborateurs : Chun-An Yang (楊淳安), John Wu (吳約翰), Xuan-Jun Ye (葉炫均)<br>
+Documentation photographique : Li-Rong Liu (劉麗榮)<br>
+Groupe du « Jeu des raviolis » (Dumpling Game Group) : Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie (宇傑)<br>
+</span>
 
 ##### Animation 3d temps réel, smartphone, capteurs gyroscopiques.
 

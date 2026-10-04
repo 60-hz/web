@@ -1,77 +1,72 @@
-# 散落之火 (The Scattering of Fire)
-
-
-### 跨媒體體驗 - Webapp
-
-在旗津島（台灣）的天后宮展出，《散落之火》（The Scattering of Fire）是與台灣藝術家楊淯緹（Yu-Ti Yang）合作設計的跨媒體體驗項目，她的父親是1969年在密西西比河悲慘沉沒的聯合信仰號（Union Faith）貨輪的船長。
-
-與游恩恩（En-En You）的表演相呼應，觀眾被邀請揭示空間中一條無形的軌跡：連接島上寺廟與沉船確切地點的軌跡。只需透過掃描QR code的簡單手勢，智慧型手機便成為一種地理詩學定位儀器，跨越全球指向那艘消失的沉船。
-
-行為展演的工作夥伴：
-創作計畫發起者＆行為展演：楊淯緹
-行為展演：游恩恩
-多媒體：Raphaël Isdant
-工作夥伴：楊淳安、吳約翰、葉炫均
-攝影紀錄：劉麗榮
-水餃遊戲群：娜娜、小柚、沂橙、宇傑
-
-
-##### 即時3D動畫、智慧型手機、陀螺儀感測器。
-
-
-<div class="galerie-automatique">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering4.png">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering0.png">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering2.jpeg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering3.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering1.png">
-</div>
-
-<br>
-
-<iframe 
-  src="https://60-hz.github.io/ScatteringOfFire/" 
-  title="Scattering of Fire - cables.gl" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen
-  style="width: 100%; height: auto; aspect-ratio: 16 / 9;"
-></iframe>
-
-<br>
-
 ---
 
-# 身體相連 - Linked Body
+# Brikabrak工作室，巴黎科学与工业城2-6岁儿童城，2026年
 
 
-### 雙人互動裝置 - Interactive installation for two bodies
+### 面向年轻观众的声光立体透视模型
 
-《身體相連》（Corps Raccord）將兩名遊客置於兩面銅鑼（代表太陽和月亮、陰陽能量）前，兩面銅鑼由一條虛擬繩索連接。在短暫的時間內，他們必須保持肌膚接觸以激發繩索，這象徵著這種結合。隨後，接觸的強度會被測量，神諭的字符似乎開始形成。當敲擊銅鑼時，同一時刻推特社群網路使用者表達的想法會被釋放：它陳述了作者最近的人際關係經歷。該計畫關注人類關係（精神、兄弟、浪漫甚至性）中產生的原始情感，正如它們在網路的喧囂中所表達的那樣。與Chiang Chia-Chi合作。
+构思并制作2026年安装在儿童城的“Brikabrak工作室”立体透视模型的声光同步装置。
+这个由纸艺艺术家Mathilde Nivet创作的透视模型，将游客沉浸在一个充满创造力角色的神奇动画世界中，这些角色在由天然材料（纸张、纸板、木材等）制成的手工布景中演变。
+
+动态且具有叙事性的灯光随着故事的发展而变化，而由具体声音组成的音效设计则伴随着由演员演绎的多语种语音解说。
 
 <span style="color: gray;">
-《身體相連》榮獲2018年拉瓦爾虛擬實境獎（Laval Virtual Award）「Recto VRso」數位創作類獎項。
+木工：Yann Bailleux<br>
+布景设计：Mathilde Nivet<br>
+语音录制：Studio Scopitone<br>
+编程、电子、灯光与音效设计：Raphaël Isdant<br>
+摄影：A Robin - eppdcsi<br>
 </span>
 
-##### 即時3D動畫、RTL-SDR無線電接收器、樹莓派（RaspberryPi）、針對AIS校準的船用天線。
 
+##### 声光同步、照明、编程
+
+  <!-- [Télécharger le dossier Echo de la mer](#)
+
+[Télécharger les Images Echo de la mer](#) -->
 
 
 <div class="galerie-automatique">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Corps-Raccord/action%20visiteurs%201.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Corps-Raccord/action%20visiteurs%202.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Corps-Raccord/tweet%203.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Corps-Raccord/action%20visiteurs%203.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Corps-Raccord/action%20visiteurs%20et%20tweet%201.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Corps-Raccord/vue%20gong.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Corps-Raccord/tweet%200.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/4468_V_Besnard-eppdcsi-88.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/4465_A_Robin-eppdcsi-45.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/4465_A_Robin-eppdcsi-46.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/IMG_20260520_174626.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/IMG_20260603_180400.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/Brikabrak-Simulateur1.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Brikabrak/Brikabrak-ecriture.jpg">
+</div>
+
+<br>
+
+---
+
+# 飘浪之女 - The Wandering Girl
+
+
+### 数字装置 - Interactive installation
+
+《The Wandering Girl》将《飘浪之女》的歌词具体化，这首奠基之作开启了台湾流行音乐教父文夏（1928-2022）的职业生涯。这件数字作品基于黄志伟（Huang Chih-Wei）的画作设计，让排版字符缓慢下落，以绘画材质的节奏来吟诵文本。
+
+作为时间流逝的真实隐喻，这种视觉编舞使观众沉浸在对流浪、怀旧和忧郁的冥想中。该装置在文夏故事馆的“时代的回音”展览中展出。
+
+
+##### 实时3D动画、声音、油画。
+
+
+<div class="galerie-automatique">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo1.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo2.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo3.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen1.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen2.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint1.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint2.jpg">
 </div>
 
 <br>
 
 <iframe 
-  src="https://www.youtube.com/embed/deNKD7T1kQM?si=J7qCmQunYxJieGNZ" 
+  src="https://www.youtube.com/embed/tWPImW_Jdsk" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -84,55 +79,38 @@
 
 ---
 
-# 海之迴聲 - Echo from the sea
-
-### 互聯海事活動的視聽裝置 - Audiovisual installation connected to maritime activity
-
-在人類開發的眾多通訊系統中，AIS系統依賴放置在船上的無線電收發器，使它們能夠持續交換海上導航的有用資訊（身分、位置、速度、活動等）。《海之迴聲》使用天線即時捕捉這些在VHF頻率上編碼和廣播的原始發射訊號，將其轉化為類似於洶湧海洋的抽象視聽波浪。因此，這些從海上廣播的訊息回到我們身邊，在觀眾面前湧現，而此時由於氣候變遷導致的海平面上升正成為現實。
-
-##### 即時3D動畫、RTL-SDR無線電接收器、樹莓派（RaspberryPi）、針對AIS校準的船用天線。
+# Oman Chat - 昆山科技大学，台湾 2024
 
 
-<div class="galerie-automatique">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Echo/Echo%20Essaouira1%20HD.jpeg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Echo/echo-subtitle1.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Echo/Echo%20Essaouira2%20HD.jpeg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Echo/Echo%20Essaouira5%20HD.jpeg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Echo/Echo%20de%20la%20mer%20-%20Safran%201%20HD.jpeg">
-</div>
+### 2024 放视大赏 (Vision Get Wild) 展台
 
-<br>
+台湾昆山科技大学创意媒体学院委托制作，于2024年在高雄的“放视大赏”（VGW）艺术节上展出。这面以猫为主题的互动墙通过红外摄像头检测，让游客能够与该系吉祥物共舞。它还提供从智能手机实时留言的功能，将字符转化为屏幕上的物理模型。
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/280066627?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="L&#039;Echo de la mer - 2018"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+“放视大赏”是台湾最大的跨学科数字设计艺术节。该艺术节创办于2011年，在数字发展部的支持下，涵盖动画、电子游戏、设计和互动技术，是学生们的跳板。
 
-<br>
+<span style="color: gray;">
+构思、制作、图形设计、音效设计：Raphaël Isdant
+</span>
 
----
 
-# Hekkah：我發布，故我在 - I post therefore I am
+##### 实时3D动画、声音反应、3D摄像头传感器、移动Web应用程序、多用户互动。
 
-### 線上共享虛擬形象 - Online shared avatar
+  <!-- [Télécharger le dossier Echo de la mer](#)
 
-該計畫將笛卡兒的「我思故我在」移植到數位領域，在那裡存在的證明不再僅僅是思想，而是社會行為及其線上發布：「我發布，故我在」。
-
-Hekkah由一個個人主頁和一個透過互動裝置延伸的Facebook應用程式組成。這兩個空間動態連接並在回饋過程中進行對話。公眾透過線上主頁成為Hekkah的朋友，即同意為展覽空間中可見的藝術計畫提供素材：Hekkah是藝術與世界之間的介面。她源於她所體現的資料流，其形狀的輪廓只有透過她聯絡人的活動和發布才可見。她的網路是她的命脈，使她能夠存在並留在我們的記憶中。如果社群網路消亡，她也會隨之消失。
-
-##### 即時3D動畫、Facebook API連接、紅外線攝影機。
+[Télécharger les Images Echo de la mer](#) -->
 
 
 <div class="galerie-automatique">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Hekkah/Hekkah%20-%20%20Acce%CC%80s(s)%20cultures%20e%CC%81lectroniques%20-%20%23MeltingPoint%20-%202020%20HD.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Hekkah/Hekkah%20-%20Laval%20Virtual%20-%20Recto%20VRso%202023%20-%203HD.jpeg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Hekkah/Hekkah%20-%201.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Hekkah/Hekkah%20-%202.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Hekkah/Hekkah%20-%203.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Hekkah/Hekkah%20-%204.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman1.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman2.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman3.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman4.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman5.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Oman/Oman6.jpg">
 </div>
-
-<br>
 
 <iframe 
-  src="https://www.youtube.com/embed/d4Jx-Vf1SyA" 
+  src="https://www.youtube.com/embed/QAJ6Bbw95VM" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
@@ -140,5 +118,208 @@ Hekkah由一個個人主頁和一個透過互動裝置延伸的Facebook應用程
   allowfullscreen
   style="width: 100%; height: auto; aspect-ratio: 16 / 9;"
 ></iframe>
+
+<br>
+
+---
+
+# 模拟尼姆 - 罗马文化博物馆，尼姆 2024
+
+
+### 沉浸式互动装置
+
+《模拟尼姆》是一件互动艺术装置，位于尼姆罗马文化博物馆参观路线的终点。受Arduino Cantàfora和Aldo Rossi 20世纪70年代概念的启发，它邀请游客与一座由不同历史时期组成的、虚构与现实交织的城市进行互动。这座城市的独特之处在于，其建筑会随着时间的推移和游客的存在而不断建造与解构。景观中的三个互动点可以触发15个关于博物馆标志性作品的故事，讲述它们与尼姆历史的联系。
+
+5.1空间化声音合成将游客带入一种既原始又生动的体验核心。这种声音创作以非线性方式演变，并辅以互动音效，与视觉环境编织出强烈的对话。它远非简单的插图，而是巧妙地唤起了高卢-罗马时代，引发了一种超越历史表象的感官沉浸。
+
+<span style="color: gray;">
+构思、制作、多媒体：Active Creative Design<br>
+构思、开发：Emmanuel Mâa Berriet<br>
+制作跟进：Jean Pascal Marron（罗马文化博物馆）<br>
+音效设计及空间化装置：Raphaël Isdant
+</span>
+
+##### 动态图形设计、实时粒子、现场音效设计和5.1音频空间化
+
+  <!-- [Télécharger le dossier Echo de la mer](#)
+
+[Télécharger les Images Echo de la mer](#) -->
+
+
+<div class="galerie-automatique">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes1.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes2.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes3.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes4.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes5.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Nimes/Nimes6.jpg">
+</div>
+
+<br>
+
+---
+
+# N.O.É - Les Tanneries 当代艺术中心，2023年。
+
+### 悬挂式自主互动雕塑艺术装置
+
+
+为Victor Cord'homme在Les Tanneries当代艺术中心举办的展览《N.O.É：观察星星的吊舱》制作数字装置、传感器和编程。
+
+N.O.É是一个互动且自主的装置，依靠游客的通行和太阳能运行。
+
+在这个自给自足的空间内，能量由雕塑产生并使用，空间内的游客越多，展览就越活跃。
+
+玻璃屋顶下的空间布满了一个由漂浮和机动雕塑组成的生态系统，让人想起达芬奇、考尔德或丁格利。它们在能源上完全自主，并根据观众数量和秋千运动活动提供的身体能量被激活。
+
+一个中央控制室用于管理分配给25个悬挂雕塑的能量，并实时显示系统状态。
+
+<span style="color: gray;">
+构思、制作：Victor Cord'homme<br>
+电子装置、屏幕及编程：Raphaël Isdant
+</span>
+
+##### 电子系统、太阳能电池板、电池、机械工程
+
+  <!-- [Télécharger le dossier Echo de la mer](#)
+
+[Télécharger les Images Echo de la mer](#) -->
+
+
+<div class="galerie-automatique">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/IMG_0445_13_3746.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/Vue-d-installation-8-web_1419.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/N.O.E-vue-d-installation-4-web_1581.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/N.O.E-vue-d-installation-10-web_1334.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/N.O.E-vue-d-installation-18-web_1665.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Noe/Vue-d-installation-8-web_1419.jpg">
+</div>
+
+<iframe 
+  src="https://www.youtube.com/embed/rJzIbARsWcA" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen
+  style="width: 100%; height: auto; aspect-ratio: 16 / 9;"
+></iframe>
+
+
+<br>
+
+---
+
+# 定制婴儿 - 人类博物馆，巴黎 2022
+
+
+### 反乌托邦互动实验室
+
+
+人类博物馆的“人类边界”展览向游客提出关于我们的局限、我们作为人类的未来以及更广泛的地球未来的问题。
+
+为了这次展览，Active Creative Design 构思并制作了互动装置“定制婴儿”，通过实验室工作台，游客可以利用名为“完美婴儿公司”的虚构公司的服务，设计自己的转基因婴儿。在3D虚拟助手的帮助下，游客进行了一系列涉及伦理和道德领域的医学操作。此外，墙面投影以数据可视化的形式，呈现了所有公众给出的各种回答的统计数据。
+
+工作室负责了工作台及相关电子设备的整体设计。该项目特别包含许多通过3D打印制作的原创技术物件：基因扫描仪、显微镜等……
+
+<span style="color: gray;">
+构思、制作、多媒体：Active Creative Design<br>
+电子装置、灯光、传感器及音效设计：Raphaël Isdant
+</span>
+
+##### 木工、3D打印、多媒体、电子、音效设计
+
+  <!-- [Télécharger le dossier Echo de la mer](#)
+
+[Télécharger les Images Echo de la mer](#) -->
+
+
+<div class="galerie-automatique">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/Humains-expo2.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/ACD_H_05-scaled.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/ACD_V_02.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/20210720_113746.jpeg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/humain02.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/ACD_V_11.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/Enfant01SD.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/FrontiereHumain/20210720_170019.jpeg">
+</div>
+
+<br>
+
+---
+
+# 阿迪达斯 Ultraboost 橱窗 - 香榭丽舍大街概念店，巴黎 2021
+
+
+### 互动机器人橱窗与动画媒体播放
+
+
+为了配合阿迪达斯 Ultraboost 新款的发布，Active Creative Design 为香榭丽舍大街概念店制作了一个结合机电一体化和动态图形设计的多媒体橱窗。它在一个由8只鞋子组成的测试台上重现了跑步者的步态，这些鞋子由同等数量的工业执行器和伺服电机驱动。在与顾客互动的过程中，该装置还协调播放沉浸式实时媒体。
+
+<span style="color: gray;">
+构思、制作、多媒体：Active Creative Design<br>
+电子装置及伺服电机编程：Raphaël Isdant
+</span>
+
+##### 电子、多媒体、摄像机捕捉、机械工程
+
+  <!-- [Télécharger le dossier Echo de la mer](#)
+
+[Télécharger les Images Echo de la mer](#) -->
+
+
+<div class="galerie-automatique">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_1-scaled.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_2-clean-scaled.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_4-scaled.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_5-scaled.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_00.jpeg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_01.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Adidas/ADIDAS_02.jpg">
+</div>
+
+
+<iframe 
+  src="https://www.youtube.com/embed/9lKsMPyAeC4" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen
+  style="width: 100%; height: auto; aspect-ratio: 16 / 9;"
+></iframe>
+
+<br>
+
+---
+
+# 增强解剖学 - 发现宫，2018
+
+
+### 互动魔镜
+
+“增强解剖学”让发现宫的公众能够以自己的身体为载体来探索人体解剖学。站在互动区内，游客通过虚拟镜面效果，在屏幕上呈现出一具重现其动作的骨骼。然后，他可以通过手势选择不同的器官，必须将它们放置在身体的正确位置，作为回报，他将观看关于这些器官在我们体内作用的科学动画。
+
+该装置采用非接触式界面，允许游客基于其身体动作进行互动。
+
+<span style="color: gray;">
+构思、制作、多媒体：Active Creative Design<br>
+音效设计及互动：Raphaël Isdant
+</span>
+
+##### 3D捕捉、互动设计、音效设计
+
+  <!-- [Télécharger le dossier Echo de la mer](#)
+
+[Télécharger les Images Echo de la mer](#) -->
+
+
+<div class="galerie-automatique">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/AnatomieAugmentee/anatomie01.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/AnatomieAugmentee/anatomie02.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/AnatomieAugmentee/anatomie03.jpg">
+  <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/AnatomieAugmentee/anatomie04.jpg">
+</div>
 
 <br>

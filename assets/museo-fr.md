@@ -17,7 +17,7 @@ Menuiserie: Yann Bailleux<br>
 Création décors : Mathilde Nivet<br>
 Enregistrement voix : Studio Scopitone<br>
 Programmation, électronique, lumière et sound design : Raphaël Isdant<br>
-Photos : A Robin - eppdcsi
+Photos : A Robin - eppdcsi<br>
 </span>
 
 

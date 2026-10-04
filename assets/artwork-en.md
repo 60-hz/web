@@ -7,13 +7,14 @@ Presented at the Tianhou temple on Cijin Island (Taiwan), The Scattering of Fire
 
 In dialogue with En-En You's performance, the audience is invited to reveal an invisible trajectory in space: the one connecting the island temple to the exact location of the shipwreck. Accessible with a gesture via a QR code, the smartphone becomes a geopoetic orientation instrument stretching across the globe toward the vanished wreck.
 
-Initiator of the project & Performance: Yu-Ti Yang (楊淯緹)
-Performance: En-En You (游恩恩)
-Multimedia creation: Raphaël Isdant
-Production team / Collaborators: Chun-An Yang (楊淳安), John Wu (吳約翰), Xuan-Jun Ye (葉炫均)
-Photographic documentation: Li-Rong Liu (劉麗榮)
-Dumpling Game Group: Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie (宇傑)
-
+<span style="color: gray;">
+Initiator of the project & Performance: Yu-Ti Yang (楊淯緹)<br>
+Performance: En-En You (游恩恩)<br>
+Multimedia creation: Raphaël Isdant<br>
+Production team / Collaborators: Chun-An Yang (楊淳安), John Wu (吳約翰), Xuan-Jun Ye (葉炫均)<br>
+Photographic documentation: Li-Rong Liu (劉麗榮)<br>
+Dumpling Game Group: Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie (宇傑)<br>
+</span>
 
 ##### Real-time 3D animation, smartphone, gyroscopic sensors.
 
