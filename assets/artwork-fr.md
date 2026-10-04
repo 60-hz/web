@@ -2,27 +2,32 @@
 
 ---
 
-# La fille errante - The Wandering Girl 
+# The Scattering of Fire
 
 
-### Installation numérique - Interactive installation for two bodies
+### Expérience transmédia - Webapp
 
-The Wandering Girl donne corps aux paroles de La Fille Errante (飄浪之女), le titre fondateur qui a lancé la carrière de Wen Xia (1928-2022), figure tutélaire de la chanson taïwanaise. Conçue à partir des peintures de Huang Chih-Wei (黃志偉), cette œuvre numérique fait chuter lentement les caractères typographiques pour scander le texte au rythme de la matière picturale.
+Présentée au temple Tianhou, sur l’île de Cijin (Taïwan), The Scattering of Fire (« La dispersion du feu ») est une expérience transmédia conçue en collaboration avec l’artiste taïwanaise Yu-Ti Yang (楊淯緹), dont le père commandait le cargo Union Faith, tragiquement englouti dans le Mississippi en 1969.
 
-Véritable métaphore du temps qui s'échappe, cette chorégraphie visuelle plonge le spectateur dans une méditation sur l'errance, la nostalgie et la mélancolie. L'installation est présentée au Musée Wenxia (文夏故事館) dans le cadre de l'exposition « L'Écho des Temps ».
+En dialogue avec la performance d’En-En You, le public est convié à révéler une trajectoire invisible dans l’espace : celle reliant le temple insulaire au lieu précis du naufrage. Accessible d'un geste via un QR code, le smartphone devient un instrument d’orientation géopoétique tendu à travers le globe vers l'épave disparue.
+
+Initiatrice du projet & Performance : Yu-Ti Yang (楊淯緹)
+Performance : En-En You (游恩恩)
+Création multimédia : Raphaël Isdant
+Équipe de production / Collaborateurs : Chun-An Yang (楊淳安), John Wu (吳約翰), Xuan-Jun Ye (葉炫均)
+Documentation photographique : Li-Rong Liu (劉麗榮)
+Groupe du « Jeu des raviolis » (Dumpling Game Group) : Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie (宇傑)
 
 
-##### Animation 3d temps réel, son, peinture à l'huile.
+##### Animation 3d temps réel, smartphone, capteurs gyroscopiques.
 
 
 <div class="galerie-automatique">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo1.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo2.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo3.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen1.png">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen2.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint1.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint2.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering0.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering1.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering2.jpeg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering3.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering4.png">
 </div>
 
 <br>

@@ -42,6 +42,45 @@ Photos : A Robin - eppdcsi
 
 ---
 
+# La fille errante - The Wandering Girl 
+
+
+### Installation numérique - Interactive installation
+
+The Wandering Girl donne corps aux paroles de La Fille Errante (飄浪之女), le titre fondateur qui a lancé la carrière de Wen Xia (1928-2022), figure tutélaire de la chanson taïwanaise. Conçue à partir des peintures de Huang Chih-Wei (黃志偉), cette œuvre numérique fait chuter lentement les caractères typographiques pour scander le texte au rythme de la matière picturale.
+
+Véritable métaphore du temps qui s'échappe, cette chorégraphie visuelle plonge le spectateur dans une méditation sur l'errance, la nostalgie et la mélancolie. L'installation est présentée au Musée Wenxia (文夏故事館) dans le cadre de l'exposition « L'Écho des Temps ».
+
+
+##### Animation 3d temps réel, son, peinture à l'huile.
+
+
+<div class="galerie-automatique">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo1.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo2.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/expo3.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen1.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/screen2.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint1.jpg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/Wenxia/paint2.jpg">
+</div>
+
+<br>
+
+<iframe 
+  src="https://www.youtube.com/embed/tWPImW_Jdsk" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen
+  style="width: 100%; height: auto; aspect-ratio: 16 / 9;"
+></iframe>
+
+<br>
+
+---
+
 # Oman Chat - Kunshan University, Taïwan 2024
 
 
