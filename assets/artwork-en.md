@@ -1,16 +1,20 @@
+<br>
+
+---
+
 # The Scattering of Fire
 
 
 ### Transmedia experience - Webapp
 
-Presented at the Tianhou temple on Cijin Island (Taiwan), The Scattering of Fire is a transmedia experience designed in collaboration with Taiwanese artist Yu-Ti Yang (楊淯緹), whose father commanded the cargo ship Union Faith, tragically swallowed by the Mississippi in 1969.
+Presented at the Tianhou Temple on Cijin Island (Taiwan), The Scattering of Fire is a transmedia experience conceived in collaboration with Taiwanese artist Yu-Ti Yang (楊淯緹), whose father was captain of the freighter Union Faith, tragically swallowed by the Mississippi River in 1969.
 
-In dialogue with En-En You's performance, the audience is invited to reveal an invisible trajectory in space: the one connecting the island temple to the exact location of the shipwreck. Accessible with a gesture via a QR code, the smartphone becomes a geopoetic orientation instrument stretching across the globe toward the vanished wreck.
+In dialogue with En-En You's performance, the audience is invited to reveal an invisible trajectory through space: the one linking the island temple to the exact site of the shipwreck. Accessible with a simple gesture via a QR code, the smartphone becomes a geopoetic orientation instrument pointed across the globe toward the lost wreckage.
 
 <span style="color: gray;">
-Initiator of the project & Performance: Yu-Ti Yang (楊淯緹)<br>
+Project initiator & Performance: Yu-Ti Yang (楊淯緹)<br>
 Performance: En-En You (游恩恩)<br>
-Multimedia creation: Raphaël Isdant<br>
+Multimedia design: Raphaël Isdant<br>
 Production team / Collaborators: Chun-An Yang (楊淳安), John Wu (吳約翰), Xuan-Jun Ye (葉炫均)<br>
 Photographic documentation: Li-Rong Liu (劉麗榮)<br>
 Dumpling Game Group: Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie (宇傑)<br>
@@ -20,11 +24,11 @@ Dumpling Game Group: Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie
 
 
 <div class="galerie-automatique">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering4.png">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering0.png">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering2.jpeg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering0.png">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering3.jpg">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering1.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering4.png">
 </div>
 
 <br>
@@ -46,12 +50,12 @@ Dumpling Game Group: Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie
 # Corps Raccord - Linked Body
 
 
-### Interactive installation for two people - Interactive installation for two bodies
+### Interactive installation for two bodies
 
-Corps Raccord (Linked Body) places a pair of visitors facing two gongs (Solar and Lunar, yin and yang energy) connected by a virtual rope. For a brief moment, they must maintain skin-to-skin contact in order to excite the rope, a metaphor for this union. The intensity of the contact is then measured and the characters of an oracle seem to form. When a gong is struck, the thought expressed by a user on the social network Twitter at the same moment is released: It states the last relational experience of its author. The project focuses on raw emotions arising from human relationships (spiritual, fraternal, romantic, even sexual) as they are expressed in the tumult of the networks. Collaboration with Chiang Chia-Chi.
+Corps Raccord places a pair of visitors in front of two gongs (Solar and Lunar, yin and yang energies) connected by a virtual rope. For a brief moment, they must maintain skin-to-skin contact to stimulate the rope, a metaphor for this union. The intensity of the contact is measured, and characters of an oracle appear to form. When a gong is struck, the thought expressed by a Twitter social media user at that precise moment is released: it conveys the author's latest relational experience. The project explores the raw emotions arising from human connections (spiritual, fraternal, romantic, or even sexual) as they manifest within the noise of online networks. Collaboration with Chiang Chia-Chi.
 
 <span style="color: gray;">
-Corps-Raccord won the Laval Virtual Award 2018 in the "Recto VRso" digital creation category.
+Corps-Raccord won the 2018 Laval Virtual Award in the "Recto VRso" digital creation category.
 </span>
 
 ##### Real-time 3D animation, RTL-SDR radio receiver, RaspberryPi, boat antenna calibrated for AIS.
@@ -84,11 +88,11 @@ Corps-Raccord won the Laval Virtual Award 2018 in the "Recto VRso" digital creat
 
 ---
 
-# L'Echo de la mer - Echo from the sea
+# Echo from the sea
 
-### Audiovisual installation connected to maritime activity - Audiovisual installation connected to maritime activity
+### Audiovisual installation connected to maritime activity
 
-Among the many communication systems developed by humans, AIS relies on a pair of radio transmitter-receivers placed on boats, allowing them to constantly exchange information useful for their navigation at sea (identity, position, speed, activity...). Capturing these raw emissions live, coded and broadcast on VHF frequencies using an antenna, Echo from the sea translates the signal into a deluge of abstract audiovisual waves strongly resembling a raging ocean. Thus, these messages broadcast from the sea return to us to surge before the spectators, at a time when rising water levels due to climate change is becoming a reality.
+Among the many communication systems developed by humans, AIS relies on a transceiver system placed aboard ships, allowing them to continuously exchange navigational data at sea (identity, position, speed, activity...). Capturing these raw, coded broadcasts live on VHF frequencies using an antenna, Echo from the sea translates the signal into a flood of abstract audiovisual waves strongly resembling a stormy ocean. These broadcast messages from the sea thus return to surge before the viewers, at a time when sea level rise caused by climate change has become a tangible reality.
 
 ##### Real-time 3D animation, RTL-SDR radio receiver, RaspberryPi, boat antenna calibrated for AIS.
 
@@ -109,13 +113,13 @@ Among the many communication systems developed by humans, AIS relies on a pair o
 
 ---
 
-# Hekkah: Je publie donc je suis - I post therefore I am
+# Hekkah: I post therefore I am
 
-### Online shared avatar - Online shared avatar
+### Online shared avatar
 
-The project transposes Descartes' Cogito, ergo sum into the digital realm, where the proof of existence is no longer just thought, but social action and its online publication: "I post, therefore I am".
+The project transposes Descartes' Cogito, ergo sum into the digital sphere, where proof of existence is no longer merely thought, but social activity and its online publication: "I post, therefore I am."
 
-Hekkah consists of a profile and a Facebook application extended by an interactive installation. These two spaces are dynamically connected and interact in a retroactive process. By becoming friends with Hekkah through her online profile, the public agrees to feed an artistic project visible in an exhibition space: Hekkah is an interface between art and the world. Originating from the flows she embodies, the contours of her shape are only visible through the activity and publications of her contacts. Her network is her lifeblood, allowing her to exist and persist in our memories. If the social network dies, she would disappear in turn.
+Hekkah consists of a Facebook profile and application extended by an interactive installation. These two spaces are dynamically connected and engage in a feedback loop. By befriending Hekkah through her online profile, the public agrees to feed an art project exhibited in a gallery space: Hekkah is an interface between art and the world. Born from the flows she embodies, the contours of her form are only visible through the activity and posts of her network. Her network is her lifeblood, allowing her to exist and persist in our collective memories. If the social network dies, she too would vanish.
 
 ##### Real-time 3D animation, Facebook API connection, infrared camera.
 
@@ -142,3 +146,5 @@ Hekkah consists of a profile and a Facebook application extended by an interacti
 ></iframe>
 
 <br>
+
+<p>

@@ -1,19 +1,23 @@
-# L'atelier des brikabrak, Cité des enfants 2-6 ans at the Cité des sciences et de l’industrie, Paris 2026
+<br>
+
+---
+
+# L'atelier des brikabrak, Cité des enfants 2-6 years old at the Cité des sciences et de l’industrie, Paris 2026
 
 
 ### Sound and light diorama for young audiences
 
-Design and production of the audio-light synchronization system for the "L’atelier des Brikabrak" diorama, installed in 2026 at the Cité des enfants.
-This diorama, created by paper-artist Mathilde Nivet, immerses visitors in the magical and animated world of creative characters, evolving in a handcrafted setting made of natural materials (paper, cardboard, wood...).
+Design and production of the audio-light synchronization system for the diorama “L’atelier des Brikabrak”, installed in 2026 at the Cité des enfants.
+This diorama, created by paper artist Mathilde Nivet, immerses visitors in the magical, animated world of creative characters moving within a handcrafted setting made of natural materials (paper, cardboard, wood…).
 
-The lighting, dynamic and narrative, adapts to the story, while a sound design - composed of concrete sounds - accompanies a multilingual vocal narration, performed by actors.
+The lighting, dynamic and narrative, adapts throughout the story, while a sound design—composed of concrete sounds—accompanies a multilingual voice narration performed by actors.
 
 <span style="color: gray;">
 Carpentry: Yann Bailleux<br>
 Set design: Mathilde Nivet<br>
 Voice recording: Studio Scopitone<br>
-Programming, electronics, lighting, and sound design: Raphaël Isdant<br>
-Photos: A Robin - eppdcsi
+Programming, electronics, lighting and sound design: Raphaël Isdant<br>
+Photos: A Robin - eppdcsi<br>
 </span>
 
 
@@ -38,14 +42,14 @@ Photos: A Robin - eppdcsi
 
 ---
 
-# La fille errante - The Wandering Girl 
+# The Wandering Girl 
 
 
 ### Digital installation - Interactive installation
 
-The Wandering Girl gives substance to the lyrics of The Wandering Girl (飄浪之女), the founding track that launched the career of Wen Xia (1928-2022), a tutelary figure of Taiwanese song. Conceived from the paintings of Huang Chih-Wei (黃志偉), this digital artwork makes typographical characters fall slowly to chant the text to the rhythm of the pictorial material.
+The Wandering Girl gives form to the lyrics of The Wandering Girl (飄浪之女), the seminal track that launched the career of Wen Xia (1928-2022), a legendary figure of Taiwanese song. Conceived from the paintings of Huang Chih-Wei (黃志偉), this digital work lets typographical characters slowly fall to punctuate the text to the rhythm of the pictorial matter.
 
-A true metaphor for escaping time, this visual choreography plunges the spectator into a meditation on wandering, nostalgia, and melancholy. The installation is presented at the Wenxia Museum (文夏故事館) as part of the "Echo of Times" exhibition.
+A true metaphor for fleeting time, this visual choreography immerses the viewer in a meditation on wanderlust, nostalgia, and melancholy. The installation is presented at the Wenxia Story House (文夏故事館) as part of the exhibition “The Echo of the Times”.
 
 
 ##### Real-time 3D animation, sound, oil painting.
@@ -80,18 +84,18 @@ A true metaphor for escaping time, this visual choreography plunges the spectato
 # Oman Chat - Kunshan University, Taiwan 2024
 
 
-### Vision get Wild 2024 Booth
+### Vision Get Wild 2024 Booth
 
-Commission for the College of Creative Media (Kunshan University, Taiwan), presented at the "Vision Get Wild" (VGW) 2024 festival in Kaohsiung. This interactive wall on the theme of cats allows the visitor to dance with the department's mascot thanks to infrared camera detection. It also offers the possibility of leaving live messages from their smartphone, transforming the characters into physical models on the screen.
+Commissioned for the College of Creative Media (Kunshan University, Taiwan), presented during the “Vision Get Wild” (VGW) 2024 festival in Kaohsiung. This cat-themed interactive wall allows visitors to dance with the department's mascot via infrared camera tracking. It also offers the possibility of posting real-time messages from a smartphone, transforming characters into physical models on screen.
 
-"Vision Get Wild" is Taiwan's largest interdisciplinary digital design festival. Created in 2011 and supported by the Ministry of Digital Affairs, it serves as a springboard for students by covering animation, video games, design, and interactive technologies.
+“Vision Get Wild” is Taiwan’s largest cross-disciplinary digital design festival. Established in 2011 and supported by the Ministry of Digital Affairs, it serves as a springboard for students, encompassing animation, video games, design, and interactive technologies.
 
 <span style="color: gray;">
 Concept, production, graphic design, sound design: Raphaël Isdant
 </span>
 
 
-##### Real-time 3D animation, Sound reactive, 3D Camera sensor, Web App for Mobile, Multi-user interaction.
+##### Real-time 3D animation, Sound reactive, 3D Camera Sensor, Mobile Web App, Multi-user interaction.
 
   <!-- [Télécharger le dossier Echo de la mer](#)
 
@@ -124,11 +128,11 @@ Concept, production, graphic design, sound design: Raphaël Isdant
 # La Nîmes analogue - Musée de la Romanité, Nîmes 2024
 
 
-### Immersive and interactive device
+### Immersive and interactive installation
 
-Analog Nîmes is an interactive art installation located at the end of the tour of the Musée de la Romanité in Nîmes. Inspired by a 1970s concept by Arduino Cantàfora and Aldo Rossi, it offers visitors the chance to play with an imaginary and real city, composed of different historical eras. The particularity of this city is that its buildings are constructed and deconstructed according to time and the presence of visitors. Three interaction points in the landscape trigger 15 stories about emblematic works of the museum, recounting their connection with the history of Nîmes.
+La Nîmes analogue is an interactive artistic installation located at the end of the tour at the Musée de la Romanité in Nîmes. Inspired by a 1970s concept by Arduino Cantàfora and Aldo Rossi, it invites visitors to engage with an imaginary and real city composed of different historical eras. The peculiarity of this city is that its buildings are built and deconstructed according to time and the presence of visitors. Three points of interaction in the landscape trigger 15 stories about iconic works in the museum, recounting their connection to the history of Nîmes.
 
-A 5.1 spatialized sound composition immerses the visitor in the heart of an experience that is both raw and alive. Evolving in a non-linear way and enriched with interactive sounds, this sound creation weaves an intense dialogue with the visual environment. Far from a simple illustration, it subtly evokes the Gallo-Roman era, arousing a sensory immersion that transcends historical representation.
+A spatialized 5.1 sound composition plunges the visitor into the heart of an experience that is both raw and vivid. Evolving non-linearly and enriched with interactive sounds, this sonic creation weaves an intense dialogue with the visual environment. Far from simple illustration, it subtly evokes the Gallo-Roman era, creating a sensory immersion that transcends historical representation.
 
 <span style="color: gray;">
 Concept, production, multimedia: Active Creative Design<br>
@@ -157,24 +161,24 @@ Sound design and spatialization system: Raphaël Isdant
 
 ---
 
-# N.O.É - Centre d’art contemporain Les tanneries, 2023.
+# N.O.É - Les Tanneries Contemporary Art Center, 2023.
 
-### Art installation of autonomous suspended interactive sculptures
+### Artistic installation of autonomous suspended interactive sculptures
 
 
-Production of the digital device, sensors, and programming for the exhibition "N.O.É: Nacelle Observant les Étoiles" (Star-Observing Nacelle) by Victor Cord'homme at the contemporary art center Les Tanneries.
+Production of the digital system, sensors, and programming for Victor Cord'homme's exhibition "N.O.É: Nacelle Observant les Étoiles" at the Les Tanneries contemporary art center.
 
-N.O.É is an interactive and autonomous installation that works with the passage of visitors and the energy of the sun.
+N.O.É is an interactive, self-sufficient installation powered by passing visitors and solar energy.
 
-Within this autarkic space, energy is produced and used by the sculptures; the more visitors there are in the space, the more the exhibition sets into motion.
+Within this self-sustaining space, energy is produced and utilized by the sculptures: the more visitors in the room, the more the exhibition comes alive with movement.
 
-The space under the glass roof is populated by an ecosystem of floating and motorized sculptures reminiscent of Leonardo da Vinci, Calder, or Tinguely. These are completely energy-autonomous and are activated according to the number of spectators and the bodily energy provided by the movement activity of a swing.
+The area beneath the glass roof is populated by an ecosystem of floating, motorized sculptures reminiscent of Leonardo da Vinci, Calder, or Tinguely. These are completely energy-autonomous, activated according to the number of viewers and the kinetic energy generated by the swinging movement of a swing.
 
-A central control room manages the distribution of energy to the 25 suspended sculptures and displays the state of the system in real time. 
+A central control unit manages the distribution of energy to the 25 suspended sculptures and displays real-time system status.
 
 <span style="color: gray;">
-Concept, production: Victor Cord'homme\
-Electronic device, screen, and programming: Raphaël Isdant
+Concept, production: Victor Cord'homme<br>
+Electronic system, screen, and programming: Raphaël Isdant
 </span>
 
 ##### Electronic system, solar panels, batteries, mechanical engineering
@@ -208,21 +212,21 @@ Electronic device, screen, and programming: Raphaël Isdant
 
 ---
 
-# Un enfant à la carte - Musée de l'homme, Paris 2022
+# Un enfant à la carte - Musée de l'Homme, Paris 2022
 
 
 ### Dystopian interactive laboratory
 
 
-The exhibition *Aux frontières de l’Humain* (At the Borders of Human) at the Musée de l’Homme questions the visitor about our limits, our future as humans, and, more globally, that of the planet.
+The exhibition Aux frontières de l'Humain at the Musée de l'Homme questions visitors about our limits, our future as humans, and more broadly, that of the planet.
 
-For this exhibition, Active Creative Design conceived and produced the interactive device *Un enfant à la carte* (A la carte child) allowing the visitor, via a laboratory bench, to design their own transgenic baby through the service of a fictional company named "Perfect baby company". Using a 3D virtual assistant, they engage in a series of medical operations questioning the fields of ethics and morality. In addition, a wall projection uses data visualization to display statistics of the different answers provided by the entire audience.
+For this exhibition, Active Creative Design designed and produced the interactive device Un enfant à la carte, allowing visitors, via a laboratory workbench, to design their own transgenic baby through the services of a fictional company named "Perfect baby company". With the aid of a 3D virtual assistant, they carry out a series of medical procedures raising questions of ethics and morality. In addition, a wall projection displays data visualizations summarizing the statistics of responses provided by the public.
 
-The studio was responsible for the entire design of the benches and the associated electronics. The project notably incorporates many original technological objects made by 3D printing: genetic scanner, microscope...
+The studio handled the complete design of the workbenches and associated electronics. Notably, the project incorporates numerous original technological objects created via 3D printing: genetic scanner, microscope…
 
 <span style="color: gray;">
 Concept, production, multimedia: Active Creative Design<br>
-Electronic device, lighting, sensors, and sound design: Raphaël Isdant
+Electronic system, lighting, sensors, and sound design: Raphaël Isdant
 </span>
 
 ##### Carpentry, 3D printing, multimedia, electronics, sound design
@@ -247,20 +251,20 @@ Electronic device, lighting, sensors, and sound design: Raphaël Isdant
 
 ---
 
-# Vitrine Adidas Ultraboost - Concept store des Champs Élysées, Paris 2021
+# Adidas Ultraboost Window - Champs Élysées Concept Store, Paris 2021
 
 
-### Interactive robotic showcase and animated media broadcasts
+### Robotic interactive window display and animated media broadcasting
 
 
-For the release of the new Adidas Ultraboost model, Active Creative Design created a multimedia showcase combining mechatronics and motion design for the Champs Élysées concept store. It reproduces a runner's stride on a test bench composed of 8 shoes animated by as many industrial actuators and servomotors. In interaction with the customers, the device additionally orchestrates the broadcasting of immersive real-time media.
+For the launch of the new Adidas Ultraboost model, Active Creative Design created a multimedia showcase combining mechatronics and motion design for the Champs Élysées concept store. It reproduces a runner's stride on a test bench composed of 8 shoes animated by as many industrial actuators and servomotors. In interaction with customers, the installation also orchestrates the delivery of immersive real-time media.
 
 <span style="color: gray;">
 Concept, production, multimedia: Active Creative Design<br>
-Electronic device and servomotor programming: Raphaël Isdant
+Electronic system and servomotor programming: Raphaël Isdant
 </span>
 
-##### Electronics, multimedia, camera capture, mechanical engineering
+##### Electronics, multimedia, camera tracking, mechanical engineering
 
   <!-- [Télécharger le dossier Echo de la mer](#)
 
@@ -292,18 +296,18 @@ Electronic device and servomotor programming: Raphaël Isdant
 
 ---
 
-# Anatomie Augmentée - Palais de la découverte, 2018
+# Augmented Anatomy - Palais de la Découverte, 2018
 
 
 ### Interactive magic mirror
 
-"Anatomie augmentée" (Augmented Anatomy) invites the public of the Palais de la Découverte to approach human anatomy using their own body as a medium. Taking place in the interaction zone, the visitor makes a skeleton reproducing their movements appear on the screen through a virtual mirror effect. They can then gesturally select different organs that they must place in the right spot on their body, receiving in return a scientific animation about their role within our organism.
+“Augmented Anatomy” invites visitors at the Palais de la Découverte to explore human anatomy using their own bodies as a medium. Stepping into the interaction area, a virtual mirror effect reveals a skeleton on the screen mirroring the visitor's movements. They can then gesture to select various organs and place them in the correct location on their body, triggering an educational animation detailing each organ's biological role.
 
-The device features a touchless interface, allowing the visitor an interaction based on their body movements.
+The installation features a touchless interface, enabling interaction based entirely on body movements.
 
 <span style="color: gray;">
 Concept, production, multimedia: Active Creative Design<br>
-Sound design and interaction: Raphaël Isdant
+Sound and interaction design: Raphaël Isdant
 </span>
 
 ##### 3D capture, interaction design, sound design

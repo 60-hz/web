@@ -1,30 +1,34 @@
-# 散落之火 (The Scattering of Fire)
+<br>
+
+---
+
+# The Scattering of Fire
 
 
 ### 跨媒体体验 - Webapp
 
-在旗津岛（台湾）的天后宫展出，《散落之火》（The Scattering of Fire）是与台湾艺术家杨淯緹（Yu-Ti Yang）合作设计的跨媒体体验项目，她的父亲是1969年在密西西比河悲惨沉没的联合信仰号（Union Faith）货轮的船长。
+在台湾旗津天后宫展出的《The Scattering of Fire》（火之散落）是一项跨媒体体验，由台湾艺术家杨淯缇（Yu-Ti Yang）与创作者共同策划。杨淯缇的父亲曾担任货船“联信轮”（Union Faith）的船长，该轮于1969年在密西西比河悲剧性沉没。
 
-与游恩恩（En-En You）的表演相呼应，观众被邀请揭示空间中一条无形的轨迹：连接岛上寺庙与沉船确切地点的轨迹。只需通过扫描二维码的简单手势，智能手机便成为一种地理诗学定位仪器，跨越全球指向那艘消失的沉船。
+在与游恩恩（En-En You）行为展演的对话中，公众受邀揭示一条空间中的隐形轨迹：连接这座岛屿寺庙与失事确切地点的路径。只需通过二维码简单扫码，智能手机便化作一件地缘诗意的定向仪器，跨越地球对准那艘沉没的残骸。
 
 <span style="color: gray;">
-项目发起人与表演者：Yu-Ti Yang (杨淯缇)<br>
-表演者：En-En You (游恩恩)<br>
+创作计划发起者＆行为展演：杨淯缇（Yu-Ti Yang）<br>
+行为展演：游恩恩（En-En You）<br>
 多媒体创作：Raphaël Isdant<br>
-制作团队 / 合作者：Chun-An Yang (杨淳安), John Wu (吴约翰), Xuan-Jun Ye (叶炫均)<br>
-摄影记录：Li-Rong Liu (刘丽荣)<br>
-“水饺游戏”群组 (Dumpling Game Group)：Nana (娜娜), Xiao You (小柚), Yi Cheng (沂橙), Yu Jie (宇杰)<br>
+制作团队 / 工作伙伴：杨淳安（Chun-An Yang）、吴约翰（John Wu）、叶炫均（Xuan-Jun Ye）<br>
+摄影纪录：刘丽荣（Li-Rong Liu）<br>
+水饺游戏群（Dumpling Game Group）：娜娜（Nana）、小柚（Xiao You）、沂橙（Yi Cheng）、宇杰（Yu Jie）<br>
 </span>
 
 ##### 实时3D动画、智能手机、陀螺仪传感器。
 
 
 <div class="galerie-automatique">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering4.png">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering0.png">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering2.jpeg">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering0.png">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering3.jpg">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering1.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering4.png">
 </div>
 
 <br>
@@ -43,18 +47,18 @@
 
 ---
 
-# 身体相连 - Linked Body
+# Corps Raccord - Linked Body
 
 
 ### 双人互动装置 - Interactive installation for two bodies
 
-《身体相连》（Corps Raccord）将两名游客置于两面铜锣（代表太阳和月亮、阴阳能量）前，两面铜锣由一条虚拟绳索连接。在短暂的时间内，他们必须保持肌肤接触以激发绳索，这象征着这种结合。随后，接触的强度会被测量，神谕的字符似乎开始形成。当敲击铜锣时，同一时刻推特社交网络用户表达的想法会被释放：它陈述了作者最近的人际关系经历。该项目关注人类关系（精神、兄弟、浪漫甚至性）中产生的原始情感，正如它们在网络的喧嚣中所表达的那样。与Chiang Chia-Chi合作。
+《Corps Raccord》让两位参观者面对两面铜锣（太阳与月亮，代表阴阳能量），它们由一根虚拟绳索相连。在短暂的片刻中，他们必须保持肌肤接触以激发绳索，象征这种连接。接触的强度被实时测量，神谕般的文字随之显现。当敲响锣声时，一名Twitter社交网络用户在同一时刻表达的想法便被释放出来：它呈现了作者最新的亲密与人际体验。该项目探讨源自人际关系的原生情感（精神的、手足的、浪漫的、乃至肉体的），正如它们在喧嚣的网络世界中所呈现的那样。与Chiang Chia-Chi合作。
 
 <span style="color: gray;">
-《身体相连》荣获2018年拉瓦尔虚拟现实奖（Laval Virtual Award）“Recto VRso”数字创作类奖项。
+《Corps-Raccord》荣获2018年Laval Virtual数字创作“Recto VRso”类别大奖。
 </span>
 
-##### 实时3D动画、RTL-SDR无线电接收器、树莓派（RaspberryPi）、针对AIS校准的船用天线。
+##### 实时3D动画、RTL-SDR无线电接收器、RaspberryPi、专为AIS校准的船用天线。
 
 
 
@@ -84,13 +88,13 @@
 
 ---
 
-# 海之回声 - Echo from the sea
+# 大海的回声 - Echo from the sea
 
-### 互联海事活动的视听装置 - Audiovisual installation connected to maritime activity
+### 连接海洋活动的视听装置 - Audiovisual installation connected to maritime activity
 
-在人类开发的众多通信系统中，AIS系统依赖放置在船上的无线电收发器，使它们能够持续交换海上导航的有用信息（身份、位置、速度、活动等）。《海之回声》使用天线实时捕捉这些在VHF频率上编码和广播的原始发射信号，将其转化为类似于汹涌海洋的抽象视听波浪。因此，这些从海上广播的消息回到我们身边，在观众面前涌现，而此时由于气候变化导致的海平面上升正成为现实。
+在人类开发的诸多通信系统中，AIS依赖于安装在船只上的无线电收发系统，使它们能够持续交换海上航行的实用信息（身份、位置、航速、作业状态……）。通过天线实时捕捉这些在VHF频段上广播的编码原始信号，《大海的回声》将该信号转化为汹涌澎湃的抽象视听波浪，极似一片狂暴的海洋。由此，这些来自海洋的广播信息重新回归，涌现在观众眼前，正值气候变化导致海平面上升成为切实现实的时刻。
 
-##### 实时3D动画、RTL-SDR无线电接收器、树莓派（RaspberryPi）、针对AIS校准的船用天线。
+##### 实时3D动画、RTL-SDR无线电接收器、RaspberryPi、专为AIS校准的船用天线。
 
 
 <div class="galerie-automatique">
@@ -109,15 +113,15 @@
 
 ---
 
-# Hekkah：我发布，故我在 - I post therefore I am
+# Hekkah: 我发布故我在 - I post therefore I am
 
-### 在线共享虚拟形象 - Online shared avatar
+### 在线共享化身 - Online shared avatar
 
-该项目将笛卡尔的“我思故我在”移植到数字领域，在那里存在的证明不再仅仅是思想，而是社会行为及其在线发布：“我发布，故我在”。
+该项目将笛卡尔的“我思故我在”转化到数字领域，在此存在的证明不再仅仅是思考，而是社会行为及其在线发布：“我发布，故我在”。
 
-Hekkah由一个个人主页和一个通过互动装置延伸的Facebook应用程序组成。这两个空间动态连接并在反馈过程中进行对话。公众通过在线主页成为Hekkah的朋友，即同意为展览空间中可见的艺术项目提供素材：Hekkah是艺术与世界之间的接口。她源于她所体现的数据流，其形状的轮廓只有通过她联系人的活动和发布才可见。她的网络是她的命脉，使她能够存在并留在我们的记忆中。如果社交网络消亡，她也会随之消失。
+Hekkah由一个Facebook主页与应用程序组成，并由互动装置进行空间延伸。这两个领域动态相连并在反馈过程中进行对话。通过在线个人主页成为Hekkah的朋友，公众同意为展厅中可见的艺术项目提供养分：Hekkah是艺术与现实世界之间的接口。由她所具象化的数据流所构成，她的形态轮廓仅通过其联系人的活动和发布内容才显露出来。社交网络是她的生命之树的汁液，使她得以存续于我们的记忆中。如果社交网络消亡，她也将随之不复存在。
 
-##### 实时3D动画、Facebook API连接、红外摄像头。
+##### 实时3D动画、Facebook API连接、红外摄像机。
 
 
 <div class="galerie-automatique">
@@ -142,3 +146,5 @@ Hekkah由一个个人主页和一个通过互动装置延伸的Facebook应用程
 ></iframe>
 
 <br>
+
+<p>
