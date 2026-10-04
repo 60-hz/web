@@ -23,18 +23,18 @@ Groupe du « Jeu des raviolis » (Dumpling Game Group) : Nana (娜娜), Xiao You
 
 
 <div class="galerie-automatique">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering4.png">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering0.png">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering1.png">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering2.jpeg">
     <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering3.jpg">
-    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering4.png">
+    <img src="https://raw.githubusercontent.com/60-hz/web/main/Galeries/ScatteringOfFire/scattering1.png">
 </div>
 
 <br>
 
 <iframe 
-  src="https://www.youtube.com/embed/tWPImW_Jdsk" 
-  title="YouTube video player" 
+  src="https://60-hz.github.io/ScatteringOfFire/" 
+  title="Scattering of Fire - cables.gl" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
   referrerpolicy="strict-origin-when-cross-origin" 
