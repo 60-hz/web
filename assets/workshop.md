@@ -19,9 +19,9 @@
 
 - [Interactive Web Design - Kunshan University - Tainan, Taïwan, 2024](https://www.raphaelisdant.com/enseignements/kunshan-university-taïwan-2024/)
 
-- [Excelia Digital Communication School - Expérience utilisateur VR XR et communication - La Rochelle](https://www.raphaelisdant.com/enseignements/xr-ai-social-media-excelia-2025/)
+- [Excelia Digital Communication School - Expérience utilisateur VR XR et communication - La Rochelle]()
 
-- [Réalité étendue et gamification - EDBS - Paris - 2024](https://www.raphaelisdant.com/enseignements/xr-ai-social-media-excelia-2025/)
+- [Réalité étendue et gamification - EDBS - Paris - 2024]()
 
 - [Atelier Art & Design - "Écosystèmes Hybrides" Shanghaï / Huangshan, Chine - 2023](https://www.raphaelisdant.com/enseignements/workshop-aad-shanghaï-2023/)
 
