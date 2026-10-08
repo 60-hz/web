@@ -3,7 +3,7 @@
 ## Workshops / enseignements en France et à l'étranger (sélection)
 <br>
 
-- [Excelia Digital Communication School - VR, AR et 3D en communication - La Rochelle - 2026](#)
+- [VR, AR, and 3D in Communication - Excelia Digital Communication School - La Rochelle - 2026](https://sites.google.com/view/vrar3dcom2026/)
 
 - [Creativity and technology - Paris College of Art - 2026](https://sites.google.com/view/workshop-cables-gl-pca/accueil)
 
