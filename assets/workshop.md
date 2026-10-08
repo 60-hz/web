@@ -3,7 +3,7 @@
 ## Workshops / enseignements en France et à l'étranger (sélection)
 <br>
 
-- Excelia Digital Communication School - VR, AR et 3D en communication - La Rochelle - 2026
+- [Excelia Digital Communication School - VR, AR et 3D en communication - La Rochelle - 2026](#)
 
 - [Creativity and technology - Paris College of Art - 2026](https://sites.google.com/view/workshop-cables-gl-pca/accueil)
 
@@ -17,7 +17,7 @@
 
 - [Université de La Rochelle - 2025](https://www.raphaelisdant.com/enseignements/universit%C3%A9-la-rochelle/)
 
-- [Beaux Arts de Paris - intervenant Pôle numérique, 2009 - 2025](https://www.raphaelisdant.com/enseignements/beaux-arts-paris-2009-2025/)
+- [Beaux Arts de Paris - intervenant Pôle numérique, 2009 - 2026](https://www.raphaelisdant.com/enseignements/beaux-arts-paris-2009-2025/)
 
 - [Interactive Web Design - Kunshan University - Tainan, Taïwan, 2024](https://www.raphaelisdant.com/enseignements/kunshan-university-taïwan-2024/)
 
