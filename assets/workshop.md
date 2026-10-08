@@ -3,6 +3,8 @@
 ## Workshops / enseignements en France et à l'étranger (sélection)
 <br>
 
+- Excelia Digital Communication School - VR, AR et 3D en communication - La Rochelle - 2026
+
 - [Creativity and technology - Paris College of Art - 2026](https://sites.google.com/view/workshop-cables-gl-pca/accueil)
 
 - [Médias numériques et nouvelles formes de narration - 2026](https://sites.google.com/view/nouvellesformesdenarration/accueil?read_current=1)
@@ -19,9 +21,7 @@
 
 - [Interactive Web Design - Kunshan University - Tainan, Taïwan, 2024](https://www.raphaelisdant.com/enseignements/kunshan-university-taïwan-2024/)
 
-- [Excelia Digital Communication School - Expérience utilisateur VR XR et communication - La Rochelle]()
-
-- [Réalité étendue et gamification - EDBS - Paris - 2024]()
+- Réalité étendue et gamification - EDBS - Paris - 2024
 
 - [Atelier Art & Design - "Écosystèmes Hybrides" Shanghaï / Huangshan, Chine - 2023](https://www.raphaelisdant.com/enseignements/workshop-aad-shanghaï-2023/)
 
