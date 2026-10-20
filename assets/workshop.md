@@ -5,7 +5,7 @@
 
 - [Creativity and technology - Paris College of Art - 2026](https://sites.google.com/view/workshop-cables-gl-pca/accueil)
 
-- [Théories critiques et nouvelles expériences du réel - Excelia - 2026](https://sites.google.com/view/workshop-cables-gl-pca/accueil)
+- [Théories critiques et nouvelles expériences du réel - Excelia - 2026](https://sites.google.com/view/thoriescritiquesetnouvellesexp/accueil)
 
 - [Médias numériques et nouvelles formes de narration - Excelia - 2026](https://sites.google.com/view/nouvellesformesdenarration/accueil?read_current=1)
 
