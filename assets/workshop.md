@@ -3,25 +3,27 @@
 ## Workshops / enseignements en France et à l'étranger (sélection)
 <br>
 
-- [VR, AR, and 3D in Communication - Excelia Digital Communication School - La Rochelle - 2026](https://sites.google.com/view/vrar3dcom2026/)
-
 - [Creativity and technology - Paris College of Art - 2026](https://sites.google.com/view/workshop-cables-gl-pca/accueil)
 
-- [Médias numériques et nouvelles formes de narration - 2026](https://sites.google.com/view/nouvellesformesdenarration/accueil?read_current=1)
+- [Théories critiques et nouvelles expériences du réel - Excelia - 2026](https://sites.google.com/view/workshop-cables-gl-pca/accueil)
 
-- [Technique: réalité augmentée - Esdac - 2025](https://www.raphaelisdant.com/enseignements/technique-réalité-augmentée-esdac/)
+- [Médias numériques et nouvelles formes de narration - Excelia - 2026](https://sites.google.com/view/nouvellesformesdenarration/accueil?read_current=1)
 
-- [XR, AI & Social Media - La Rochelle - 2024 EN](https://www.raphaelisdant.com/enseignements/xr-ai-social-media-excelia-en/)
+- [Technique: réalité augmentée - Esdac Paris - 2025](https://www.raphaelisdant.com/enseignements/technique-réalité-augmentée-esdac/)
 
-- [Workshop Ensaama - Olivier de Serres - 2025](https://www.raphaelisdant.com/enseignements/workshop-ensaama-paris-2025/)
+- [XR, AI & Social Media - Excelia - 2024 EN](https://www.raphaelisdant.com/enseignements/xr-ai-social-media-excelia-en/)
+
+- [Design numérique - Ensaama / Olivier de Serres - 2025](https://www.raphaelisdant.com/enseignements/workshop-ensaama-paris-2025/)
 
 - [Université de La Rochelle - 2025](https://www.raphaelisdant.com/enseignements/universit%C3%A9-la-rochelle/)
 
-- [Beaux Arts de Paris - intervenant Pôle numérique, 2009 - 2026](https://www.raphaelisdant.com/enseignements/beaux-arts-paris-2009-2025/)
+- [Beaux Arts de Paris - intervenant Pôle numérique, 2009 - 2025](https://www.raphaelisdant.com/enseignements/beaux-arts-paris-2009-2025/)
 
 - [Interactive Web Design - Kunshan University - Tainan, Taïwan, 2024](https://www.raphaelisdant.com/enseignements/kunshan-university-taïwan-2024/)
 
-- [Réalité étendue et gamification - EDBS - Paris - 2024](#)
+- [Excelia Digital Communication School - Expérience utilisateur VR XR et communication - La Rochelle](https://www.raphaelisdant.com/enseignements/xr-ai-social-media-excelia-2025/)
+
+- [Réalité étendue et gamification - EDBS - Paris - 2024](https://www.raphaelisdant.com/enseignements/xr-ai-social-media-excelia-2025/)
 
 - [Atelier Art & Design - "Écosystèmes Hybrides" Shanghaï / Huangshan, Chine - 2023](https://www.raphaelisdant.com/enseignements/workshop-aad-shanghaï-2023/)
 
